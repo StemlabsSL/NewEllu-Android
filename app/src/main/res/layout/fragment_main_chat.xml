@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorFBFBFB"
+    android:orientation="vertical">
+
+    <include layout="@layout/profile_toolbar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/llStoryBoard"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorWhite"
+                android:orientation="horizontal"
+                android:paddingTop="@dimen/_10sdp"
+                android:paddingBottom="@dimen/_10sdp">
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_10sdp"
+                    android:layout_marginEnd="@dimen/_5sdp">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/ivUserProfile"
+                        android:layout_width="@dimen/_37sdp"
+                        android:layout_height="@dimen/_37sdp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_margin="@dimen/_3sdp"
+                        android:elevation="@dimen/_5sdp"
+                        android:src="@drawable/ic_profile_main_user_round" />
+
+                    <ImageView
+                        android:id="@+id/ivAdd"
+                        android:layout_width="@dimen/_13sdp"
+                        android:layout_height="@dimen/_13sdp"
+                        android:layout_gravity="bottom|end"
+                        android:layout_marginBottom="@dimen/_3sdp"
+                        android:elevation="@dimen/_6sdp"
+                        android:src="@drawable/ic_add"
+                        android:visibility="visible" />
+
+                </FrameLayout>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rvChatPerson"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="@dimen/_6sdp"
+                    android:orientation="horizontal"
+                    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                    tools:itemCount="4"
+                    tools:listitem="@layout/item_chat_person" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/colorEAEAEA" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rvMainChat"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/colorFBFBFB"
+                android:orientation="vertical"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                tools:itemCount="6"
+                tools:listitem="@layout/item_chat_main_list" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/ivMainChat"
+            android:layout_width="@dimen/_60sdp"
+            android:layout_height="@dimen/_60sdp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="@dimen/_8sdp"
+            android:layout_marginEnd="@dimen/_16sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:src="@drawable/ic_main_chat" />
+
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,394 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.stemlabs.ellu"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml
+10
+11    <uses-feature
+11-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:66:5-68:35
+12        android:name="android.hardware.camera"
+12-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:67:9-47
+13        android:required="true" />
+13-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:68:9-32
+14
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:70:5-81
+15-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:70:22-78
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:71:5-79
+16-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:71:22-76
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:72:5-79
+17-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:72:22-76
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:73:5-76
+18-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:73:22-73
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:74:5-81
+19-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:74:22-78
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+20-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:75:5-80
+20-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:75:22-77
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:76:5-67
+21-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:76:22-64
+22    <uses-permission android:name="android.permission.CAMERA" />
+22-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:77:5-65
+22-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:77:22-62
+23    <uses-permission android:name="android.hardware.camera" />
+23-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:78:5-63
+23-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:78:22-60
+24    <uses-permission android:name="android.hardware.camera.autofocus" />
+24-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:79:5-73
+24-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:79:22-70
+25    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+25-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:80:5-85
+25-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:80:22-82
+26    <uses-permission android:name="android.permission.CALL_PHONE" />
+26-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:81:5-69
+26-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:81:22-66
+27    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+27-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:83:5-77
+27-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:83:22-74
+28    <uses-permission android:name="requires android.permission.FOREGROUND_SERVICE" />
+28-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:85:5-86
+28-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:85:22-83
+29    <uses-permission android:name="android.permission.VIBRATE" /> <!-- Step 1: Add the following permission to the app -->
+29-->[com.wdullaer:materialdatetimepicker:3.6.4] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/f3ca615cfdfda25223d4166871d4a4e2/jetified-materialdatetimepicker-3.6.4/AndroidManifest.xml:26:5-66
+29-->[com.wdullaer:materialdatetimepicker:3.6.4] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/f3ca615cfdfda25223d4166871d4a4e2/jetified-materialdatetimepicker-3.6.4/AndroidManifest.xml:26:22-63
+30    <uses-permission android:name="android.permission.USE_BIOMETRIC" /> <!-- Step 2: This permission is depreciated in Android P -->
+30-->[:biometric-auth] /Projects/Kotlin projects/vishantkotlin/Ellu/biometric-auth/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-72
+30-->[:biometric-auth] /Projects/Kotlin projects/vishantkotlin/Ellu/biometric-auth/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-69
+31    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+31-->[:biometric-auth] /Projects/Kotlin projects/vishantkotlin/Ellu/biometric-auth/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-74
+31-->[:biometric-auth] /Projects/Kotlin projects/vishantkotlin/Ellu/biometric-auth/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-71
+32
+33    <uses-feature
+33-->[com.google.android.gms:play-services-maps:17.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/60aa6a78b6c01929f302889e8121ce72/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+34        android:glEsVersion="0x00020000"
+34-->[com.google.android.gms:play-services-maps:17.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/60aa6a78b6c01929f302889e8121ce72/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+35        android:required="true" />
+35-->[com.google.android.gms:play-services-maps:17.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/60aa6a78b6c01929f302889e8121ce72/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+36
+37    <uses-permission android:name="android.permission.WAKE_LOCK" />
+37-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/f71aa4b338fbb04a1cf0c38db4be5fb6/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:24:5-68
+37-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/f71aa4b338fbb04a1cf0c38db4be5fb6/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:24:22-65
+38    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+38-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:26:5-110
+38-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:26:22-107
+39
+40    <application
+40-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:5:5-65:19
+41        android:name="com.stemlabs.ellu.App"
+41-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:6:9-28
+42        android:allowBackup="true"
+42-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:7:9-35
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.3.1] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/c42e101be024f3b1c62b327bfe8fc982/core-1.3.1/AndroidManifest.xml:24:18-86
+44        android:debuggable="true"
+45        android:icon="@mipmap/ic_launcher"
+45-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:8:9-43
+46        android:label="@string/app_name"
+46-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:9:9-41
+47        android:largeHeap="true"
+47-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:10:9-33
+48        android:requestLegacyExternalStorage="true"
+48-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:11:9-52
+49        android:roundIcon="@mipmap/ic_launcher_round"
+49-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:12:9-54
+50        android:supportsRtl="true"
+50-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:13:9-35
+51        android:testOnly="true"
+52        android:theme="@style/ActionBarAppTheme"
+52-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:14:9-49
+53        android:usesCleartextTraffic="true" >
+53-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:15:9-44
+54        <uses-library
+54-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:17:9-19:40
+55            android:name="org.apache.http.legacy"
+55-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:18:13-50
+56            android:required="false" />
+56-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:19:13-37
+57
+58        <meta-data
+58-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:22:9-24:69
+59            android:name="com.google.android.gms.version"
+59-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:23:13-58
+60            android:value="@integer/google_play_services_version" />
+60-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:24:13-66
+61
+62        <activity
+62-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:26:9-30:70
+63            android:name="com.stemlabs.ellu.ui.component.home.HomeActivity"
+63-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:27:13-59
+64            android:screenOrientation="portrait"
+64-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:28:13-49
+65            android:theme="@style/AppTheme"
+65-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:29:13-44
+66            android:windowSoftInputMode="stateHidden|adjustResize" />
+66-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:30:13-67
+67
+68        <meta-data
+68-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:32:9-34:47
+69            android:name="com.google.android.geo.API_KEY"
+69-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:33:13-58
+70            android:value="@string/map_key" />
+70-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:34:13-44
+71
+72        <activity
+72-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:36:9-39:52
+73            android:name="com.stemlabs.ellu.ui.component.loginflow.LoginFlowActivity"
+73-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:38:13-69
+74            android:screenOrientation="portrait"
+74-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:39:13-49
+75            android:windowSoftInputMode="adjustResize" />
+75-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:37:13-55
+76
+77        <meta-data
+77-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:41:9-43:55
+78            android:name="com.facebook.sdk.ApplicationId"
+78-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:42:13-58
+79            android:value="@string/facebook_app_id" />
+79-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:43:13-52
+80
+81        <activity
+81-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:45:9-54:20
+82            android:name="com.stemlabs.ellu.ui.component.splash.SplashActivity"
+82-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:46:13-63
+83            android:screenOrientation="portrait"
+83-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:47:13-49
+84            android:theme="@style/AppTheme" >
+84-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:48:13-44
+85            <intent-filter>
+85-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:49:13-53:29
+86                <action android:name="android.intent.action.MAIN" />
+86-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:50:17-69
+86-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:50:25-66
+87
+88                <category android:name="android.intent.category.LAUNCHER" />
+88-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:52:17-77
+88-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:52:27-74
+89            </intent-filter>
+90        </activity>
+91
+92        <provider
+93            android:name="androidx.core.content.FileProvider"
+93-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:57:13-62
+94            android:authorities="com.stemlabs.ellu.provider"
+94-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:58:13-60
+95            android:exported="false"
+95-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:59:13-37
+96            android:grantUriPermissions="true" >
+96-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:60:13-47
+97            <meta-data
+97-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:61:13-63:48
+98                android:name="android.support.FILE_PROVIDER_PATHS"
+98-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:62:17-67
+99                android:resource="@xml/path" />
+99-->/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/AndroidManifest.xml:63:17-45
+100        </provider>
+101
+102        <activity
+102-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:30:9-33:66
+103            android:name="com.facebook.FacebookActivity"
+103-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:31:13-57
+104            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+104-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:32:13-96
+105            android:theme="@style/com_facebook_activity_theme" />
+105-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:33:13-63
+106        <activity android:name="com.facebook.CustomTabMainActivity" />
+106-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:34:9-71
+106-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:34:19-68
+107        <activity
+107-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:35:9-49:20
+108            android:name="com.facebook.CustomTabActivity"
+108-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:36:13-58
+109            android:exported="true" >
+109-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:37:13-36
+110            <intent-filter>
+110-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:39:13-48:29
+111                <action android:name="android.intent.action.VIEW" />
+111-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:40:17-69
+111-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:40:25-66
+112
+113                <category android:name="android.intent.category.DEFAULT" />
+113-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:42:17-76
+113-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:42:27-73
+114                <category android:name="android.intent.category.BROWSABLE" />
+114-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:43:17-78
+114-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:43:27-75
+115
+116                <data
+116-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:45:17-47:50
+117                    android:host="cct.com.stemlabs.ellu"
+117-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:46:21-56
+118                    android:scheme="fbconnect" />
+118-->[com.facebook.android:facebook-common:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/0ef8515544ac2b7e5c7cc7e4d9d765dc/jetified-facebook-common-5.15.3/AndroidManifest.xml:47:21-47
+119            </intent-filter>
+120        </activity>
+121        <activity
+121-->[gun0912.ted:tedpermission:2.2.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/2d3ac1499c732c580ac6101c20ae9e83/jetified-tedpermission-2.2.3/AndroidManifest.xml:10:9-14:67
+122            android:name="com.gun0912.tedpermission.TedPermissionActivity"
+122-->[gun0912.ted:tedpermission:2.2.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/2d3ac1499c732c580ac6101c20ae9e83/jetified-tedpermission-2.2.3/AndroidManifest.xml:11:13-75
+123            android:configChanges="mcc|mnc|locale|keyboard|keyboardHidden|screenLayout|fontScale|uiMode|orientation|screenSize|layoutDirection"
+123-->[gun0912.ted:tedpermission:2.2.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/2d3ac1499c732c580ac6101c20ae9e83/jetified-tedpermission-2.2.3/AndroidManifest.xml:12:13-144
+124            android:screenOrientation="unspecified"
+124-->[gun0912.ted:tedpermission:2.2.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/2d3ac1499c732c580ac6101c20ae9e83/jetified-tedpermission-2.2.3/AndroidManifest.xml:13:13-52
+125            android:theme="@style/Theme.Transparent.Permission" />
+125-->[gun0912.ted:tedpermission:2.2.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/2d3ac1499c732c580ac6101c20ae9e83/jetified-tedpermission-2.2.3/AndroidManifest.xml:14:13-64
+126        <activity
+126-->[com.google.android.gms:play-services-auth:18.1.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/5308754979958e7466aa9fdc053e6dc1/jetified-play-services-auth-18.1.0/AndroidManifest.xml:23:9-27:75
+127            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+127-->[com.google.android.gms:play-services-auth:18.1.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/5308754979958e7466aa9fdc053e6dc1/jetified-play-services-auth-18.1.0/AndroidManifest.xml:24:13-93
+128            android:excludeFromRecents="true"
+128-->[com.google.android.gms:play-services-auth:18.1.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/5308754979958e7466aa9fdc053e6dc1/jetified-play-services-auth-18.1.0/AndroidManifest.xml:25:13-46
+129            android:exported="false"
+129-->[com.google.android.gms:play-services-auth:18.1.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/5308754979958e7466aa9fdc053e6dc1/jetified-play-services-auth-18.1.0/AndroidManifest.xml:26:13-37
+130            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+130-->[com.google.android.gms:play-services-auth:18.1.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/5308754979958e7466aa9fdc053e6dc1/jetified-play-services-auth-18.1.0/AndroidManifest.xml:27:13-72
+131        <!--
+132            Service handling Google Sign-In user revocation. For apps that do not integrate with
+133            Google Sign-In, this service will never be started.
+134        -->
+135        <service
+135-->[com.google.android.gms:play-services-auth:18.1.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/5308754979958e7466aa9fdc053e6dc1/jetified-play-services-auth-18.1.0/AndroidManifest.xml:33:9-37:51
+136            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+136-->[com.google.android.gms:play-services-auth:18.1.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/5308754979958e7466aa9fdc053e6dc1/jetified-play-services-auth-18.1.0/AndroidManifest.xml:34:13-89
+137            android:exported="true"
+137-->[com.google.android.gms:play-services-auth:18.1.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/5308754979958e7466aa9fdc053e6dc1/jetified-play-services-auth-18.1.0/AndroidManifest.xml:35:13-36
+138            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+138-->[com.google.android.gms:play-services-auth:18.1.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/5308754979958e7466aa9fdc053e6dc1/jetified-play-services-auth-18.1.0/AndroidManifest.xml:36:13-107
+139            android:visibleToInstantApps="true" />
+139-->[com.google.android.gms:play-services-auth:18.1.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/5308754979958e7466aa9fdc053e6dc1/jetified-play-services-auth-18.1.0/AndroidManifest.xml:37:13-48
+140        <service
+140-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/f71aa4b338fbb04a1cf0c38db4be5fb6/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:27:9-33:19
+141            android:name="com.google.firebase.components.ComponentDiscoveryService"
+141-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/f71aa4b338fbb04a1cf0c38db4be5fb6/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:28:13-84
+142            android:directBootAware="true"
+142-->[com.google.firebase:firebase-common:19.5.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/6034b9d33e69cc9437191db578d8080c/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+143            android:exported="false" >
+143-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/f71aa4b338fbb04a1cf0c38db4be5fb6/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:29:13-37
+144            <meta-data
+144-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/f71aa4b338fbb04a1cf0c38db4be5fb6/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:30:13-32:85
+145                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+145-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/f71aa4b338fbb04a1cf0c38db4be5fb6/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:31:17-139
+146                android:value="com.google.firebase.components.ComponentRegistrar" />
+146-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/f71aa4b338fbb04a1cf0c38db4be5fb6/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:32:17-82
+147            <meta-data
+147-->[com.google.firebase:firebase-installations:16.3.5] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/fb264b1dfd110b7b7493a77ad48c33ff/jetified-firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+148                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+148-->[com.google.firebase:firebase-installations:16.3.5] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/fb264b1dfd110b7b7493a77ad48c33ff/jetified-firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+149                android:value="com.google.firebase.components.ComponentRegistrar" />
+149-->[com.google.firebase:firebase-installations:16.3.5] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/fb264b1dfd110b7b7493a77ad48c33ff/jetified-firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+150            <!--
+151                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+152                clients to use it as well, by defining this registrar in their own core/common library.
+153            -->
+154            <meta-data
+154-->[com.google.firebase:firebase-common:19.5.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/6034b9d33e69cc9437191db578d8080c/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+155                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+155-->[com.google.firebase:firebase-common:19.5.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/6034b9d33e69cc9437191db578d8080c/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+156                android:value="com.google.firebase.components.ComponentRegistrar" />
+156-->[com.google.firebase:firebase-common:19.5.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/6034b9d33e69cc9437191db578d8080c/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+157        </service>
+158
+159        <provider
+159-->[com.google.firebase:firebase-common:19.5.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/6034b9d33e69cc9437191db578d8080c/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+160            android:name="com.google.firebase.provider.FirebaseInitProvider"
+160-->[com.google.firebase:firebase-common:19.5.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/6034b9d33e69cc9437191db578d8080c/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+161            android:authorities="com.stemlabs.ellu.firebaseinitprovider"
+161-->[com.google.firebase:firebase-common:19.5.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/6034b9d33e69cc9437191db578d8080c/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+162            android:directBootAware="true"
+162-->[com.google.firebase:firebase-common:19.5.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/6034b9d33e69cc9437191db578d8080c/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+163            android:exported="false"
+163-->[com.google.firebase:firebase-common:19.5.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/6034b9d33e69cc9437191db578d8080c/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+164            android:initOrder="100" />
+164-->[com.google.firebase:firebase-common:19.5.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/6034b9d33e69cc9437191db578d8080c/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+165        <!--
+166         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+167         with the application context. This config is merged in with the host app's manifest,
+168         but there can only be one provider with the same authority activated at any given
+169         point; so if the end user has two or more different apps that use Facebook SDK, only the
+170         first one will be able to use the provider. To work around this problem, we use the
+171         following placeholder in the authority to identify each host application as if it was
+172         a completely different provider.
+173        -->
+174        <provider
+174-->[com.facebook.android:facebook-core:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/d64f1285f505d9f1db79148641837e5e/jetified-facebook-core-5.15.3/AndroidManifest.xml:39:9-42:40
+175            android:name="com.facebook.internal.FacebookInitProvider"
+175-->[com.facebook.android:facebook-core:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/d64f1285f505d9f1db79148641837e5e/jetified-facebook-core-5.15.3/AndroidManifest.xml:40:13-70
+176            android:authorities="com.stemlabs.ellu.FacebookInitProvider"
+176-->[com.facebook.android:facebook-core:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/d64f1285f505d9f1db79148641837e5e/jetified-facebook-core-5.15.3/AndroidManifest.xml:41:13-72
+177            android:exported="false" />
+177-->[com.facebook.android:facebook-core:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/d64f1285f505d9f1db79148641837e5e/jetified-facebook-core-5.15.3/AndroidManifest.xml:42:13-37
+178
+179        <receiver
+179-->[com.facebook.android:facebook-core:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/d64f1285f505d9f1db79148641837e5e/jetified-facebook-core-5.15.3/AndroidManifest.xml:44:9-50:20
+180            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+180-->[com.facebook.android:facebook-core:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/d64f1285f505d9f1db79148641837e5e/jetified-facebook-core-5.15.3/AndroidManifest.xml:45:13-86
+181            android:exported="false" >
+181-->[com.facebook.android:facebook-core:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/d64f1285f505d9f1db79148641837e5e/jetified-facebook-core-5.15.3/AndroidManifest.xml:46:13-37
+182            <intent-filter>
+182-->[com.facebook.android:facebook-core:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/d64f1285f505d9f1db79148641837e5e/jetified-facebook-core-5.15.3/AndroidManifest.xml:47:13-49:29
+183                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+183-->[com.facebook.android:facebook-core:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/d64f1285f505d9f1db79148641837e5e/jetified-facebook-core-5.15.3/AndroidManifest.xml:48:17-95
+183-->[com.facebook.android:facebook-core:5.15.3] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/d64f1285f505d9f1db79148641837e5e/jetified-facebook-core-5.15.3/AndroidManifest.xml:48:25-92
+184            </intent-filter>
+185        </receiver>
+186        <receiver
+186-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:29:9-33:20
+187            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+187-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:30:13-85
+188            android:enabled="true"
+188-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:31:13-35
+189            android:exported="false" >
+189-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:32:13-37
+190        </receiver>
+191
+192        <service
+192-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:35:9-38:40
+193            android:name="com.google.android.gms.measurement.AppMeasurementService"
+193-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:36:13-84
+194            android:enabled="true"
+194-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:37:13-35
+195            android:exported="false" />
+195-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:38:13-37
+196        <service
+196-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:39:9-43:72
+197            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+197-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:40:13-87
+198            android:enabled="true"
+198-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:41:13-35
+199            android:exported="false"
+199-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:42:13-37
+200            android:permission="android.permission.BIND_JOB_SERVICE" />
+200-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/19b156db2958cc06788f44bb56ae63f6/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:43:13-69
+201
+202        <activity
+202-->[com.google.android.gms:play-services-base:17.1.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/6ba9478efdb8d67b86a8e723d122db3f/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+203            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+203-->[com.google.android.gms:play-services-base:17.1.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/6ba9478efdb8d67b86a8e723d122db3f/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+204            android:exported="false"
+204-->[com.google.android.gms:play-services-base:17.1.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/6ba9478efdb8d67b86a8e723d122db3f/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+205            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+205-->[com.google.android.gms:play-services-base:17.1.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/6ba9478efdb8d67b86a8e723d122db3f/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+206
+207        <provider
+207-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/8384d409482d4ba68e0d1f45caa6ca5b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+208            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+208-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/8384d409482d4ba68e0d1f45caa6ca5b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+209            android:authorities="com.stemlabs.ellu.lifecycle-process"
+209-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/8384d409482d4ba68e0d1f45caa6ca5b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+210            android:exported="false"
+210-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/8384d409482d4ba68e0d1f45caa6ca5b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+211            android:multiprocess="true" />
+211-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/pbs7/.gradle/caches/transforms-2/files-2.1/8384d409482d4ba68e0d1f45caa6ca5b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+212    </application>
+213
+214</manifest>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/llItemMain"
+    android:elevation="@dimen/_3sdp"
+    android:paddingStart="@dimen/_20sdp"
+    android:paddingEnd="@dimen/_20sdp"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvLocationTitle"
+            style="@style/lbl12BlackBold"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="@dimen/_2sdp"
+            android:text="La Farine Bakery"
+            android:textSize="@dimen/_10ssp" />
+
+        <TextView
+            android:id="@+id/tvLocationDistance"
+            style="@style/lbl12GrayBold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="@dimen/_2sdp"
+            android:text="2.5 miles"
+            android:textSize="@dimen/_10ssp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvLocationDetial"
+        style="@style/lbl12GrayRegular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:lineSpacingExtra="@dimen/_2sdp"
+        android:text="Shop # 02, Kings Road"
+        android:textSize="@dimen/_10ssp" />
+
+
+</LinearLayout>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    android:clickable="true"
+    android:orientation="vertical"
+    tools:context=".ui.component.chat.fragment.IndividualChatFragment">
+
+    <include layout="@layout/chat_toolbar_sos" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvEndSosLBL"
+            style="@style/btnAccent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:elevation="@dimen/_5sdp"
+            android:text="END SOS" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rvIndividualChat"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                tools:itemCount="1"
+                tools:listitem="@layout/listrow_invidividual_chat_header_sos">
+
+            </androidx.recyclerview.widget.RecyclerView>
+
+            <LinearLayout
+                android:id="@+id/llAction"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/llStatusMessageSend"
+                android:layout_gravity="bottom"
+                android:tag=""
+                android:visibility="gone">
+
+                <include layout="@layout/layout_message_type" />
+
+            </LinearLayout>
+
+        </FrameLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        android:paddingTop="@dimen/_5sdp"
+        android:paddingStart="@dimen/_13sdp"
+        android:paddingEnd="@dimen/_10sdp"
+        android:paddingBottom="@dimen/_5sdp">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardViewSendMessage"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_2sdp"
+            android:layout_marginTop="@dimen/_3sdp"
+            android:layout_marginBottom="@dimen/_3sdp"
+            android:layout_weight="1"
+            android:elevation="@dimen/_5sdp"
+            app:cardCornerRadius="@dimen/_10sdp"
+            app:cardElevation="@dimen/_3sdp"
+            app:cardPreventCornerOverlap="false"
+            app:cardUseCompatPadding="false">
+
+            <LinearLayout
+                android:id="@+id/llSendMessage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorWhite"
+                android:orientation="horizontal"
+                android:paddingStart="@dimen/_11sdp"
+                android:paddingTop="@dimen/_11sdp"
+                android:paddingEnd="@dimen/_11sdp"
+                android:paddingBottom="@dimen/_11sdp">
+
+                <EditText
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:layout_marginEnd="@dimen/_5sdp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:fontFamily="@font/raleway_medium"
+                    android:hint="Type message here"
+                    android:text=""
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/_12ssp" />
+
+                <ImageView
+                    android:layout_width="@dimen/_25sdp"
+                    android:layout_height="@dimen/_25sdp"
+                    android:padding="@dimen/_2sdp"
+                    android:src="@drawable/ic_audio"
+                    app:tint="@color/colorEB7D80" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+
+        <ImageView
+            android:id="@+id/ivSend"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:clickable="false"
+            android:layout_gravity="center"
+
+            android:layout_marginStart="@dimen/_10sdp"
+            android:src="@drawable/ic_send_chat_red"
+            />
+    </LinearLayout>
+
+</LinearLayout>

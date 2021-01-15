@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/itemLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/_12sdp"
+    android:layout_marginTop="@dimen/_6sdp"
+    android:layout_marginEnd="@dimen/_12sdp"
+    android:layout_marginBottom="@dimen/_6sdp"
+    android:background="@drawable/curve_medium_primary_white"
+    android:orientation="vertical"
+    android:padding="@dimen/_12sdp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:fontFamily="@font/raleway_bold"
+            android:text="Scrum Meeting"
+            android:textColor="@color/colorA23131"
+            android:textSize="@dimen/_14ssp" />
+
+        <ImageView
+            android:id="@+id/imgMore"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_21sdp"
+            android:layout_gravity="center"
+            android:padding="@dimen/_4sdp"
+            android:src="@drawable/ic_more_black" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/ivDate"
+                android:layout_width="@dimen/_12sdp"
+                android:layout_height="@dimen/_12sdp"
+                android:layout_gravity="center"
+                android:layout_margin="@dimen/_4sdp"
+                android:src="@drawable/ic_date" />
+
+            <TextView
+                android:id="@+id/tvDate"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_4sdp"
+                android:layout_weight="1"
+                android:fontFamily="@font/raleway_medium"
+                android:text="6:00 PM - 7:00 PM ~ 1 hour"
+                android:textColor="@color/colorA23131"
+                android:textSize="@dimen/_10ssp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/ivAddress"
+                android:layout_width="@dimen/_12sdp"
+                android:layout_height="@dimen/_12sdp"
+                android:layout_gravity="center"
+                android:layout_margin="@dimen/_4sdp"
+                android:src="@drawable/ic_address" />
+
+            <TextView
+                android:id="@+id/tvAddress"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_4sdp"
+                android:layout_weight="1"
+                android:fontFamily="@font/raleway_medium"
+                android:text="Sydney, Australia"
+                android:textColor="@color/colorA23131"
+                android:textSize="@dimen/_10ssp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/ivPerson"
+                android:layout_width="@dimen/_12sdp"
+                android:layout_height="@dimen/_12sdp"
+                android:layout_gravity="center"
+                android:layout_margin="@dimen/_4sdp"
+                android:src="@drawable/ic_person1" />
+
+            <TextView
+                android:id="@+id/tvUserName"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_4sdp"
+                android:layout_weight="1"
+                android:fontFamily="@font/raleway_medium"
+                android:text="Jane Doe, Joe, Eric"
+                android:textColor="@color/colorA23131"
+                android:textSize="@dimen/_10ssp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
+
+

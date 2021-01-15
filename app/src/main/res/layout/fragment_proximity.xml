@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.component.proximity.fragment.ProximityFragment">
+
+    <include layout="@layout/noraml_toolbar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_temp_map" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#BF0073B5" />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0.6"
+            android:background="@drawable/ic_gradient_video" />
+
+        <LinearLayout
+            android:id="@+id/topLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="@font/raleway_medium"
+                android:text="Finding Friends Near You"
+                android:textColor="#85FFFFFF"
+                android:textSize="@dimen/_14ssp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_4sdp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="@dimen/_16sdp"
+                    android:layout_height="@dimen/_16sdp"
+                    android:layout_margin="@dimen/_4sdp"
+                    android:src="@drawable/ic_ellipse"
+                    app:tint="#84E695" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/raleway_bold"
+                    android:text="Calle Maria De Molina, 56"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/_14ssp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="@dimen/_400sdp"
+            android:layout_height="@dimen/_400sdp"
+            android:layout_alignParentBottom="true"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="@dimen/_minus20sdp"
+                android:layout_marginEnd="@dimen/_minus20sdp"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:layout_marginBottom="@dimen/_20sdp"
+                android:background="@drawable/ic_waves_proximity"
+                android:scaleType="fitXY">
+
+            </ImageView>
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:id="@+id/animationView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:adjustViewBounds="true"
+                android:visibility="gone"
+                app:lottie_autoPlay="true"
+                app:lottie_loop="true"
+                app:lottie_rawRes="@raw/animation" />
+
+            <com.stemlabs.ellu.widgets.RadarView
+                android:id="@+id/radarView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/_42sdp" />
+
+            <FrameLayout
+                android:layout_width="@dimen/_100sdp"
+                android:layout_height="@dimen/_100sdp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="@dimen/_33sdp"
+                    android:background="@drawable/ic_ellipse"
+                    android:backgroundTint="#84E695"
+                    android:fontFamily="@font/raleway_bold"
+                    android:paddingStart="@dimen/_8sdp"
+                    android:paddingTop="@dimen/_4sdp"
+                    android:paddingEnd="@dimen/_8sdp"
+                    android:paddingBottom="@dimen/_4sdp"
+                    android:text="Me"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/_14ssp" />
+
+                <ImageView
+                    android:id="@+id/dropdownArrow"
+                    android:layout_width="@dimen/_8sdp"
+                    android:layout_height="@dimen/_5sdp"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="@dimen/_20sdp"
+                    android:background="@drawable/ic_drop_down_ccp"
+                    android:backgroundTint="@color/color84E695" />
+
+                <ImageView
+                    android:id="@+id/ivCenterEllips"
+                    android:layout_width="@dimen/_32sdp"
+                    android:layout_height="@dimen/_32sdp"
+                    android:layout_gravity="center"
+                    android:layout_margin="@dimen/_4sdp"
+                    android:src="@drawable/ic_ellipse_white" />
+            </FrameLayout>
+
+
+        </RelativeLayout>
+
+
+        <TextView
+            android:id="@+id/tvActivateLBL"
+            style="@style/btnGradient"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="@dimen/_16sdp"
+            android:layout_marginTop="@dimen/_50sdp"
+            android:layout_marginEnd="@dimen/_16sdp"
+            android:layout_marginBottom="@dimen/_25sdp"
+            android:text="ACTIVATE" />
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvNearByUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal"
+            android:visibility="gone"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            tools:itemCount="3"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:layout_marginEnd="@dimen/_16sdp"
+            android:layout_marginBottom="@dimen/_12sdp"
+            tools:listitem="@layout/item_near_by_user" />
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

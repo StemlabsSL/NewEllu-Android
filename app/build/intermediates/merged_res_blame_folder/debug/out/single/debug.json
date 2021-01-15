@@ -1,0 +1,2670 @@
+[
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_meet_large.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_meet_large.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_custom_marker_proximity_two.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker_proximity_two.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_directions.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_directions.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_seventeen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_seventeen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_radio_checked_red.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_radio_checked_red.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_gradient_circle.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_gradient_circle.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_proximity.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_proximity.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_nine.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_nine.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_login.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_add_new_contact.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_add_new_contact.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_progress_drawable.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/progress_drawable.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_checbox_check.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/checbox_check.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_status_message_plus.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_status_message_plus.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sidemenu_e_plus.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sidemenu_e_plus.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_radio_bg_red.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/radio_bg_red.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_doc_main.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_doc_main.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_customized_alert.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_customized_alert.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_awesome_users_cog.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_awesome_users_cog.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_link.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_link.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_email_blue.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_email_blue.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_terms_condition.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_terms_condition.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_near_by_user.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_near_by_user.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_sample3.jpg.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/sample3.jpg"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_progress_drawable_update_band.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/progress_drawable_update_band.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ring_shape_gradient.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ring_shape_gradient.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_header_image.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_header_image.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_timer_play.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_timer_play.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_eleven.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_eleven.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_proximity_white.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_proximity_white.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sos_map_2.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sos_map_2.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_view_progress_dialog.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/view_progress_dialog.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_customized_alarm_transparent.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_customized_alarm_transparent.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_arrow_back_black.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_arrow_back_black.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_eight.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_eight.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_eleven.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_eleven.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_proximity_bottom.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_proximity_bottom.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_aware.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_aware.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_larger_zoom.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/larger_zoom.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_crying.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/crying.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_add_new_contact.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_add_new_contact.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_nine.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_nine.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_mobile_blue_line.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_mobile_blue_line.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_green_tick.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_green_tick.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sos_notification.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sos_notification.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_img_pdf.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/img_pdf.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sos_grey_contact.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sos_grey_contact.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_slide_in_from_left_anim.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/slide_in_from_left_anim.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_icon_search_black.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_icon_search_black.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_user_profile.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_user_profile.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_customized_chat.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_customized_chat.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_nine.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_nine.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_greenprogress.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/greenprogress.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_chat_toolbar_sos.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/chat_toolbar_sos.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_direction.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_direction.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_one.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_one.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_status_message_microphone.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_status_message_microphone.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tip_battery_one.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tip_battery_one.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_timer_blue.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_timer_blue.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_camera_pink_badge.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_camera_pink_badge.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_cup_white.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_cup_white.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_seventeen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_seventeen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_circle_lownder_gradiun.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/circle_lownder_gradiun.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_five.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_five.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_sample1.jpg.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/sample1.jpg"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_alert_two.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_alert_two.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_intro.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_intro.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_profile.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/profile.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tick.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tick.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_women_sample_one.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_women_sample_one.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sos_chat.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sos_chat.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_six.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_six.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_two.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_two.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_underline_gray.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/underline_gray.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_ticket_arrow_white.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_ticket_arrow_white.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_sos.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_sos.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_two.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_two.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_twelve.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_twelve.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/menu_bottom_menu.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_seventeen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_seventeen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_ten.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_ten.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_img_plus.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/img_plus.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/font_raleway_regular.ttf.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/font/raleway_regular.ttf"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_call_bottom_selected.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_call_bottom_selected.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tab_bg_two.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tab_bg_two.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_profile_toolbar.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/profile_toolbar.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_user1.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_user1.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_circle_orange_gradiun.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/circle_orange_gradiun.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_three.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_three.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tab_bg_five.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tab_bg_five.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_light_gray_curve.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/light_gray_curve.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_curve_medium_primary_red.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/curve_medium_primary_red.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_user.jpeg.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_user.jpeg"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_verify_otp.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_verify_otp.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_video_call.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_video_call.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_change_password_icon_gray.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_change_password_icon_gray.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_img_xd.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/img_xd.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_sign_up.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_five.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_five.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_twelve.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_twelve.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_minus.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/minus.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_notification_grey_contact.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_notification_grey_contact.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_chat_main_list.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_chat_main_list.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_message_status_blue.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_message_status_blue.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_notification_white_green_badge.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_notification_white_green_badge.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_invidividual_chat_header_sos.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_invidividual_chat_header_sos.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_gradient_bottom_gray.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_gradient_bottom_gray.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_sos_send.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_sos_send.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_fifteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_fifteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_fourteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_fourteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_question_greybg.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_question_greybg.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_radio_on_light.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/radio_on_light.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_switch_bg_pink.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/switch_bg_pink.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_dialog_chat_item_click.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_chat_item_click.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_curve_primary_white.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/curve_primary_white.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_five.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_five.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_curve_medium_primary_orange.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/curve_medium_primary_orange.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_select_a_place.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_select_a_place.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_main_chat.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_main_chat.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_dialog_error_change_password.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_error_change_password.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tip_led_two.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tip_led_two.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_save_alarm.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_save_alarm.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_media.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_media.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_proximity_map.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_proximity_map.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_seven.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_seven.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_more_call_white_bg.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_more_call_white_bg.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_curve_medium_primary_white.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/curve_medium_primary_white.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_privacy_policy.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_privacy_policy.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_dialog_video_call.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_video_call.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_new_group_selection.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_new_group_selection.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_done.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/done.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_invidividual_chat.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_invidividual_chat.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_splash_header_yellow.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/splash_header_yellow.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_doc.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_doc.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_radio_unchecked_red.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_radio_unchecked_red.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_circle.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_circle.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_contacts_all_sos_pager.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_contacts_all_sos_pager.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sidemenu_leash.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sidemenu_leash.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_address.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_address.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_itemview_listrow_events.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/itemview_listrow_events.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_surprised.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/surprised.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_audio.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_audio.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_underline_white.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/underline_white.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_img_video_curve_user.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/img_video_curve_user.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/font_raleway_bold.ttf.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/font/raleway_bold.ttf"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_ten.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_ten.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_add.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_add.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_group2.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_group2.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_men_sample_two.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_men_sample_two.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_watch_blue.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_watch_blue.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_sixteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_sixteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_meet_sender.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_meet_sender.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_curve_sos_gradient.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/curve_sos_gradient.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_thirteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_thirteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_itemview_listrow_calender.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/itemview_listrow_calender.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tip_battery_four.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tip_battery_four.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_siren_bottom_selected.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_siren_bottom_selected.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_direction_map.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_direction_map.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_gradient.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_circle_yellow_gradiun.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/circle_yellow_gradiun.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_primary.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_primary.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_noraml_toolbar.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/noraml_toolbar.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_slide_in_from_right.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/slide_in_from_right.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_fourteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_fourteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_ellipse.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_ellipse.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ring_shape_gradient_story.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ring_shape_gradient_story.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_alaram_clock.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_alaram_clock.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_aware_track.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_aware_track.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_customized_pattern.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_customized_pattern.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_sample5.jpg.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/sample5.jpg"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_forgot_password.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_forgot_password.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_five.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_five.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_zoom_in_zoom_out.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/zoom_in_zoom_out.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_eight.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_eight.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_inlove.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/inlove.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_notitification_manage.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_notitification_manage.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_seven.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_seven.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_calender_bottom_unselected.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_calender_bottom_unselected.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_watch_grp.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_watch_grp.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_last.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_last.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_location_alert.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_location_alert.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_customized_calendar.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_customized_calendar.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_doc.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_doc.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_battery_blue.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_battery_blue.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_thirteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_thirteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_flag_pin.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_flag_pin.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_eight.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_eight.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_siren.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_siren.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_security_icon_gray.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_security_icon_gray.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_s_o_s_profile.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_s_o_s_profile.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_sixteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_sixteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_one.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_one.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_forward_blue.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_forward_blue.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tab_bg_four.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tab_bg_four.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_reset.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_reset.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_next_white_badge_green_arrow.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_next_white_badge_green_arrow.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tab_bg_three.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tab_bg_three.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/font_roboto_medium.ttf.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/font/roboto_medium.ttf"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_border_primary_small_curve.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/border_primary_small_curve.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_aware_select_a_place.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_aware_select_a_place.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_alert_four.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_alert_four.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_customized_alarm_tone.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_customized_alarm_tone.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sos_call.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sos_call.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_customize_band_detail.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_customize_band_detail.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_explore.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_explore.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_ten.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_ten.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_img_dots_calendar.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/img_dots_calendar.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_cancel_meeting_bg.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/cancel_meeting_bg.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_bottom_curve_three.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_bottom_curve_three.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_profile_popup_delete.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_profile_popup_delete.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_person1.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_person1.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_dialog_notification_manage.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_notification_manage.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_invidividual_chat_header.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_invidividual_chat_header.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_one.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_one.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_notification_blue_contact.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_notification_blue_contact.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_rotate.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_location2.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_location2.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_home.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_call_log.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_call_log.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_gps.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/gps.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_call.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_call.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_custom_marker.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_ten.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_ten.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_add_message.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_add_message.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_eleven.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_eleven.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_green_true.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_green_true.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_meet_white.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_meet_white.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_contact_header.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_contact_header.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_contacts_to_send.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_contacts_to_send.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_menu_title_icon.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/menu_title_icon.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_splash_bg.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_splash_bg.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_nature1.jpg.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/nature1.jpg"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_sixteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_sixteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_two.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_two.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_progressing_dot.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_progressing_dot.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tip_battery_three.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tip_battery_three.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_cancel_call_red_bg.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_cancel_call_red_bg.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_switch_bg.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/switch_bg.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_eight.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_eight.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_zoom_image.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/zoom_image.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_meet_card_animation.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_meet_card_animation.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_curve_reply_chat.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/curve_reply_chat.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_dialog_pager.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_pager.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_curve_proximity_gradient.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/curve_proximity_gradient.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/font_roboto_bold.ttf.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/font/roboto_bold.ttf"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_call_log.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_call_log.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_reset_band.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_reset_band.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/raw_animation.json.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/raw/animation.json"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tip_battery_two.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tip_battery_two.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_transmitter_gradient_badge.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_transmitter_gradient_badge.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_nine.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_nine.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_media_main.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_media_main.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_img_add_new_contact.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/img_add_new_contact.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_circle2.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_circle2.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_flag_border_aware.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_flag_border_aware.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_bottom_curve_call.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_bottom_curve_call.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_circle_gray3.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_circle_gray3.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_right_arrow_black.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_right_arrow_black.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_walk_person_marker_flag.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/walk_person_marker_flag.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_eleven.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_eleven.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_profile_ring_avtar.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_profile_ring_avtar.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_bg_bottom_sheet.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/bg_bottom_sheet.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_customized_intensity.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_customized_intensity.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_thirteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_thirteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_custom_marker_flag.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker_flag.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_customized_alert_transparent.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_customized_alert_transparent.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_circle_accent.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_circle_accent.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_face_detection.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_face_detection.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_top_curve_primary_solid.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/top_curve_primary_solid.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_rounded_blue2.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_rounded_blue2.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_women_sample_two.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_women_sample_two.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_date_meet.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_date_meet.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sos_blue_contact.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sos_blue_contact.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_thirteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_thirteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_seven.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_seven.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_customized_chat_transparent.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_customized_chat_transparent.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_radio_off_light.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/radio_off_light.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_alert.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_alert.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_change_password.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_change_password.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_gradient_sos.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_gradient_sos.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_send_chat_red.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_send_chat_red.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_profile.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_sixteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_sixteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_edit_sos_pager_contact.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_edit_sos_pager_contact.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_new_group.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_new_group.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_default_dot.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/default_dot.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_status_send_bg.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/status_send_bg.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_lock_ring.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_lock_ring.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_group_default_chat.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_group_default_chat.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_img_map.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/img_map.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_contact_yellow_badge.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_contact_yellow_badge.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_update_band.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_update_band.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_calendar.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_calendar.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_border_red_curve.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/border_red_curve.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_pager.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_pager.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_group_done.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_group_done.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_twelve.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_twelve.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_nine.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_nine.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_sample2.jpg.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/sample2.jpg"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_slide_in_from_right_anim.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/slide_in_from_right_anim.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_nine.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_nine.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_gradient_video.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_gradient_video.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_laughing.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/laughing.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_navbar_mobile_light.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_navbar_mobile_light.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_custom_marker_proximity_four.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker_proximity_four.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_block_white.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_block_white.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_circle_light_sky.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/circle_light_sky.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_thirteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_thirteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_about_band.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_about_band.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_seven.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_seven.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_chat.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_chat.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_main_chat.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_main_chat.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_red_outgoing.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_red_outgoing.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_faq.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_faq.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_accent.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_accent.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_dialog_sos_end_overlay.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_sos_end_overlay.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_alert_three.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_alert_three.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_media_link.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_media_link.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_five.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_five.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_reset_password_successfully.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_reset_password_successfully.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_meet_contact.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_meet_contact.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_fifteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_fifteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_calendar_event_color.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_calendar_event_color.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_slide_to_top_anim.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/slide_to_top_anim.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_circle_gray2.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_circle_gray2.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_individual_chat.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_individual_chat.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_person_grey_contact.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_person_grey_contact.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_alpha.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/alpha.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_exclusion.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_exclusion.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_men_sample_three.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_men_sample_three.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_three.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_three.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/font_raleway_medium.ttf.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/font/raleway_medium.ttf"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_arrow.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_arrow.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_add_person_call_white_bg.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_add_person_call_white_bg.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_sixteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_sixteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sos.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sos.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tip_led_one.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tip_led_one.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_eye_visible.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_eye_visible.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_sos.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_sos.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_location_chat_bg.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/location_chat_bg.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_link_main.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_link_main.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_splash_layout.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/splash_layout.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_profile_popup_camera.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_profile_popup_camera.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_seventeen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_seventeen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_about_band_detail.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_about_band_detail.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_chat_toolbar.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/chat_toolbar.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_underline_black_alpha.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/underline_black_alpha.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_jazz.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/jazz.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_contacts.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_contacts.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_sample4.jpg.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/sample4.jpg"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_switch_on_icon.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_switch_on_icon.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_camera_white_blue_bg_circle.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_camera_white_blue_bg_circle.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_new_group.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_new_group.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_delete_blue.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_delete_blue.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_four.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_four.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_placeholder.jpg.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/placeholder.jpg"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_twelve.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_twelve.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_one.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_one.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_temp_map.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_temp_map.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_slide_out_from_right.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/slide_out_from_right.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_close_white.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_close_white.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_group1.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_group1.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_one.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_one.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_six.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_six.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_four.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_four.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_color_cursor.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/color_cursor.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_play_sos.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_play_sos.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_two.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_two.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_curve_proximity_header_chat_gradient.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/curve_proximity_header_chat_gradient.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_four.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_four.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_contact_check.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_contact_check.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_silent_blue.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_silent_blue.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/font_patric_hand_regular.ttf.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/font/patric_hand_regular.ttf"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_time_black.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_time_black.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_faq_category.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_faq_category.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_bottom_curve_five.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_bottom_curve_five.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_sample6.jpg.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/sample6.jpg"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_layout_message_type.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/layout_message_type.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_six.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_six.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_calendar.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_calendar.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_switch_off_icon.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_switch_off_icon.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_three.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_three.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_three.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_three.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_tips_detail.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_tips_detail.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_chat_map.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_chat_map.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_red_close.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_red_close.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_dialog_profile_photo_selection.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_profile_photo_selection.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_profile_popup_gallery.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_profile_popup_gallery.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_customized_band.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_customized_band.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_battery.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_battery.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_fifteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_fifteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_e_blue_logo.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_e_blue_logo.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_light_accent_curve.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/light_accent_curve.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_four.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_four.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tip_battery_five.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tip_battery_five.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_add_alarm.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_add_alarm.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_alert_one.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_alert_one.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tab_bg_one.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tab_bg_one.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_dialog_proximity.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_proximity.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_ring_view.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_ring_view.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_open_envelop.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/open_envelop.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_notification_black_calendar.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_notification_black_calendar.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_customized_loop.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_customized_loop.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_birthdate_blue.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_birthdate_blue.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_timer_gray.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_timer_gray.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_one.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_one.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_slide_out_from_left.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/slide_out_from_left.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/menu_menu_more_chat_more.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/menu/menu_more_chat_more.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_accent_border.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_accent_border.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_timer_stop.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_timer_stop.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_left_audio_sos.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_left_audio_sos.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_three.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_three.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_four.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_four.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_finger_print_blue.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_finger_print_blue.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_watch_bottom_unselected.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_watch_bottom_unselected.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_twelve.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_twelve.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_calender_bottom_selected.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_calender_bottom_selected.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_group3.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_group3.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_flag_orange_badge.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_flag_orange_badge.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_about_band_yellow_band.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_about_band_yellow_band.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_fingerprint.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/ic_fingerprint.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_alarm.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_alarm.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_fb_black.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_fb_black.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_dialog_mute_notification.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_mute_notification.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_archive_chat.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_archive_chat.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_video_call_user.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_video_call_user.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_profile_plus_user.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_profile_plus_user.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_proximity_user.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_proximity_user.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_person.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_person.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_video_call_log.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_video_call_log.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_main_fragment.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_main_fragment.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_curve_medium_primary_green.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/curve_medium_primary_green.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_day_alarm.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_day_alarm.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_notification_green.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_notification_green.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sidemenu_e_clock.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sidemenu_e_clock.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sidemenu_tutorial.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sidemenu_tutorial.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_progress_drawable_update_band_green.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/progress_drawable_update_band_green.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_switch_on_green.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_switch_on_green.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_chat_person.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_chat_person.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_edit.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_edit.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_battery_green.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_battery_green.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_custom_marker_proximity_one.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker_proximity_one.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_reply_blue.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_reply_blue.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_light_blue_curve.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/light_blue_curve.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_customized_calendar_transparent.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_customized_calendar_transparent.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_terms_icon_gray.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_terms_icon_gray.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/menu_menu_more_sos.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/menu/menu_more_sos.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_tips_detail.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_tips_detail.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_location.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_location.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_falg_alert.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_falg_alert.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_switch_on_icon_green.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_switch_on_icon_green.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_media.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_media.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_activity_home.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sos_video.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sos_video.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_slant_envelop.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/slant_envelop.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_siren_bottom_unselected.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_siren_bottom_unselected.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_accent2.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_accent2.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_aware_chat_bg.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/aware_chat_bg.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_eleven.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_eleven.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_add_plus_blue.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_add_plus_blue.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_slide_in_from_left.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/slide_in_from_left.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tutorial_one.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tutorial_one.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_dialog_report.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_report.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_blue_tick.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_blue_tick.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_timer_pause.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_timer_pause.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_gmail_black.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_gmail_black.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_customize_band.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_customize_band.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_circle_light_blue.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/circle_light_blue.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_hide_eye.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_hide_eye.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_add_new_event.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_add_new_event.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_custom_marker_sos.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker_sos.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_notification_alert.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_notification_alert.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_block_user_bg.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/block_user_bg.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_aware_flag.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_aware_flag.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sos_profile.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sos_profile.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_audio_animated.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_audio_animated.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_location_yellow_badge.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_location_yellow_badge.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_aware_flag_pin.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_aware_flag_pin.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_ten.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_ten.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_four.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_four.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_nature2.jpg.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/nature2.jpg"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_faq.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_faq.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_day_repeat_circular.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_day_repeat_circular.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_meet_chat_bg.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/meet_chat_bg.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_circle_blue_gradiun.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/circle_blue_gradiun.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_sos_end.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_sos_end.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_play_white_bg.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/play_white_bg.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_six.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_six.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_dialog_turorial.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_turorial.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/font_roboto_regular.ttf.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/font/roboto_regular.ttf"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_link.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_link.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_thirteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_thirteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_status_message_send.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_status_message_send.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_curve_primary_solid.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/curve_primary_solid.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_fourteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_fourteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_custom_marker_proximity_three.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker_proximity_three.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_profile_main_user_round.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_profile_main_user_round.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_mute_call_white_bg.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_mute_call_white_bg.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_chat_bottom_unselected.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_chat_bottom_unselected.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_search.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_receiver_letter.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_receiver_letter.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_plus.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/plus.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_share_location.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_share_location.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_speaker_call_white_bg.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_speaker_call_white_bg.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_customized_alarm.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_customized_alarm.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_arrow_left_white.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_arrow_left_white.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_meet_add_blue.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_meet_add_blue.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_seekbar_thumb_primary.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_seekbar_thumb_primary.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_gradient_signin.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_gradient_signin.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_twelve.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_twelve.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_splash_ellu_white.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/splash_ellu_white.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_selected_dot.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/selected_dot.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_arrow_right_search.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_arrow_right_search.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_navigation_menu.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_navigation_menu.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_view_otp.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/view_otp.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_more_black.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_more_black.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_checbox_uncheck.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/checbox_uncheck.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_customized_timer_transparent.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_customized_timer_transparent.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_directions2.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_directions2.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tip_led_three.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tip_led_three.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/font_raleway_light.ttf.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/font/raleway_light.ttf"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_checkbox.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_checkbox.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_dialog_alarm_name.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_alarm_name.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_done1.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_done1.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_contact_uncheck.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_contact_uncheck.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_bottom_curve_two.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_bottom_curve_two.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_gradient_signup.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_gradient_signup.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_alarm_blue.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_alarm_blue.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_border_blue.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/border_blue.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_done.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_done.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sidemenu_logout.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sidemenu_logout.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_six.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_six.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_two.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_two.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_green_outgoing.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_green_outgoing.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_switch_pink.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_switch_pink.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_group.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_group.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_circle_gray.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_circle_gray.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_group_camera.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_group_camera.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_person_blue_contact.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_person_blue_contact.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_item_select_location.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_select_location.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_rounded_blue.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_rounded_blue.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_radio_bg.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/radio_bg.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_switch_pink_on_icon.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_switch_pink_on_icon.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_notification_blue.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_notification_blue.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_six.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_six.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_seventeen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_seventeen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_bg_fingerprint.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/bg_fingerprint.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_progress_loader.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/progress_loader.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_title_logo.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_title_logo.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_bottom_curve_one.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_bottom_curve_one.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_small_curve_primary_solid.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/small_curve_primary_solid.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_watch_blue_yellow_reset.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_watch_blue_yellow_reset.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_notification.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_eleven.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_eleven.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_sos_map.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_sos_map.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_copy_blue.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_copy_blue.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_chat_user_toolbar.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_chat_user_toolbar.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_alert_header.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_alert_header.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_mute.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_mute.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_half_start_rectangle.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/half_start_rectangle.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/xml_path.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/xml/path.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/menu_menu_more_chat.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/menu/menu_more_chat.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_flag_marker.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_flag_marker.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_security.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_security.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_walk_person.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_walk_person.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_img_word.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/img_word.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/font_raleway_semibold.ttf.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/font/raleway_semibold.ttf"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_contact_send.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_contact_send.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_customized_timer.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_customized_timer.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_alert.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_alert.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_fifteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_fifteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tip_lost_connection_one.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tip_lost_connection_one.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_send_chat.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_send_chat.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_send.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_send.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_left_audio_sos2.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_left_audio_sos2.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_checkbox_uncheck.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_checkbox_uncheck.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_media_link_docs.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_media_link_docs.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_tab_bg.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/tab_bg.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_pager_chat_bg.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/pager_chat_bg.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_circle_green_gradiun.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/circle_green_gradiun.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_delete_red.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_delete_red.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_switch_off.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_switch_off.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_settings.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_settings.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_fade_out.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_clock_full_shadow.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_clock_full_shadow.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_settings.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_five.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_five.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_group_chat.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_group_chat.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_meet_alert.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_meet_alert.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tips_three.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tips_three.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_seven.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_seven.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_baseline_add_24.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_meet_red_badge.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_meet_red_badge.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_date.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_date.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_call_bottom_unselected.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_call_bottom_unselected.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_play_blue.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_play_blue.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_switch_on.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_switch_on.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_fifteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_fifteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_blutooth.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_blutooth.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_chat_action.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_chat_action.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_waves_proximity.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_waves_proximity.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_tip_led_four.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_tip_led_four.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_folder_blue_badge.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_folder_blue_badge.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_border_gray.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/border_gray.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_play.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_play.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_select_all_contacts.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_select_all_contacts.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_half_right_rectangle.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/half_right_rectangle.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_lock_green_cp.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_lock_green_cp.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tutorial_two.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxhdpi/tutorial_two.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_account.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_account.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_checkbox_check.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_checkbox_check.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_activity_login_flow.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/activity_login_flow.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_privacy_icon_gray.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_privacy_icon_gray.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_links_media.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_links_media.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_vibration_pattern.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_vibration_pattern.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xhdpi_tutorial_eight.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xhdpi/tutorial_eight.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_arrow_ticket_blue.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_arrow_ticket_blue.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_ellipse_white.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_ellipse_white.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_circle_blue.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_circle_blue.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_fourteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_fourteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_faq_icon_gray.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_faq_icon_gray.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_custom_marker_sos2.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker_sos2.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_awesome_mobile_alt.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_awesome_mobile_alt.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-hdpi_tutorial_fourteen.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-hdpi/tutorial_fourteen.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_alarm.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_alarm.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_gallary_menu.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_gallary_menu.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_add_call_log.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_add_call_log.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_bg_bottom_curve_four.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/bg_bottom_curve_four.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_e_logo_white.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_e_logo_white.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_eyeoff.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/eyeoff.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_slide_top.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/slide_top.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_men_sample_one.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_men_sample_one.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_phone_call_log.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_phone_call_log.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_eight.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_eight.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/anim_fade_in.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_alarm_gray.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_alarm_gray.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_listrow_calendar_event_person.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_calendar_event_person.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_watch.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_watch.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_switch_bg_green.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/switch_bg_green.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_gray_border_tick.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_gray_border_tick.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tutorial_ten.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-xxxhdpi/tutorial_ten.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_message.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_message.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_img_next_tutorial.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/img_next_tutorial.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_map_img.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/map_img.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_profile_image.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_profile_image.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_watch_bottom_selected.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_watch_bottom_selected.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable-mdpi_tutorial_seven.png.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable-mdpi/tutorial_seven.png"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_reset_password.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_reset_password.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/layout_fragment_story_board.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_story_board.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/res/merged/debug/drawable_ic_chat_bottom_selected.xml.flat",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/drawable/ic_chat_bottom_selected.xml"
+    }
+]

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    android:orientation="vertical"
+    tools:context=".ui.component.loginflow.LoginFlowActivity">
+
+    <!--<androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorWhite">-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/llTopLogo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="88dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_25sdp"
+                android:backgroundTint="#73C5F3"
+                android:src="@drawable/ic_e_blue_logo" />
+
+            <TextView
+                android:id="@+id/tvWelcomeLBL"
+                style="@style/headerLightBlue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+
+                android:layout_marginBottom="@dimen/_15sdp"
+                android:fontFamily="@font/raleway_medium"
+                android:text="Welcome!"
+                android:textColor="#73C5F3"
+                android:textSize="@dimen/_24ssp" />
+
+        </LinearLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/RR"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+
+            <FrameLayout
+                android:id="@+id/mainContainer"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_350sdp"
+                android:layout_marginTop="@dimen/_12sdp" />
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/mainContainer"
+                android:layout_alignParentBottom="true">
+
+
+                <LinearLayout
+                    android:id="@+id/llFBGoogle"
+                    android:layout_width="match_parent"
+
+                    android:layout_height="match_parent"
+                    android:layout_gravity="bottom"
+
+
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    tools:ignore="NotSibling">
+
+                    <ImageView
+                        android:id="@+id/imgGoogle"
+                        android:layout_width="@dimen/_28sdp"
+                        android:layout_height="@dimen/_28sdp"
+                        android:layout_gravity="bottom"
+                        android:layout_marginBottom="@dimen/_22sdp"
+                        android:padding="@dimen/_5sdp"
+                        android:src="@drawable/ic_gmail_black" />
+
+                    <ImageView
+                        android:id="@+id/imgFacebook"
+                        android:layout_width="@dimen/_28sdp"
+                        android:layout_height="@dimen/_28sdp"
+                        android:layout_gravity="bottom"
+                        android:layout_marginStart="@dimen/_35sdp"
+                        android:layout_marginBottom="@dimen/_22sdp"
+                        android:padding="@dimen/_5sdp"
+                        android:src="@drawable/ic_fb_black" />
+
+                </LinearLayout>
+
+
+            </RelativeLayout>
+
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+    <!--
+        </androidx.core.widget.NestedScrollView>
+    -->
+
+
+</LinearLayout>

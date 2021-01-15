@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorFBFBFB"
+    android:orientation="vertical"
+    tools:context=".ui.component.aboutband.fragment.UpdateBandFragment">
+
+    <include layout="@layout/noraml_toolbar" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_40sdp"
+                android:orientation="vertical">
+
+                <ProgressBar
+                    android:id="@+id/timerProgressBar"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="@dimen/_250sdp"
+                    android:layout_height="@dimen/_250sdp"
+                    android:max="100"
+                    android:rotation="-90"
+                    android:progressDrawable="@drawable/progress_drawable_update_band"
+                    android:visibility="gone"
+                    tools:progress="100" />
+
+                <ImageView
+                    android:layout_width="@dimen/_100sdp"
+                    android:layout_height="@dimen/_160sdp"
+                    android:layout_gravity="center"
+                    android:padding="@dimen/_10sdp"
+                    android:src="@drawable/ic_mobile_blue_line" />
+
+                <ImageView
+                    android:id="@+id/imgTick"
+                    android:layout_width="@dimen/_30sdp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_gravity="bottom|center_horizontal"
+                    android:layout_marginStart="@dimen/_30sdp"
+                    android:layout_marginBottom="@dimen/_55sdp"
+                    android:src="@drawable/ic_green_tick"
+                    android:visibility="gone" />
+
+
+            </FrameLayout>
+
+            <TextView
+                android:id="@+id/tvPreparingLBL"
+                style="@style/lbl12GrayMedium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_15sdp"
+                android:textSize="@dimen/_13ssp"
+                android:text="Preparing" />
+
+            <LinearLayout
+                android:id="@+id/llUpdateBandView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:layout_marginBottom="@dimen/_20sdp"
+                android:visibility="gone">
+
+                <TextView
+                    style="@style/lbl14GrayMedium"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="@dimen/_20sdp"
+                    android:text="Updated Successfully!"
+                    android:textSize="@dimen/_17ssp"
+                    android:textColor="@color/color00446C" />
+
+
+                <TextView
+                    style="@style/lbl12BlackMedium"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_40sdp"
+                    android:layout_marginTop="@dimen/_20sdp"
+                    android:layout_marginEnd="@dimen/_40sdp"
+                    android:gravity="center"
+                    android:lineSpacingExtra="@dimen/_2sdp"
+                    android:text="The Band is almost fully updated. To complete the process, the band will disconnect and connect automatically."
+                    android:textSize="@dimen/_13ssp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llSuccessFullConnectBandView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_30sdp"
+                    android:orientation="horizontal"
+                    android:paddingStart="@dimen/_16sdp"
+                    android:paddingEnd="@dimen/_16sdp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        style="@style/lbl14PrimaryMedium"
+                        android:text="Serial Number" />
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="end"
+                        style="@style/lbl14PrimaryMedium"
+                        android:text="ELLU_000577"
+                        android:textColor="@color/color6C6C6C"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_15sdp"
+                    android:orientation="horizontal"
+                    android:paddingStart="@dimen/_16sdp"
+                    android:paddingEnd="@dimen/_16sdp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        style="@style/lbl14PrimaryMedium"
+                        android:text="Firmware Version" />
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="end"
+                        style="@style/lbl14PrimaryMedium"
+                        android:text="V 1.11.1"
+                        android:textColor="@color/color6C6C6C"/>
+                </LinearLayout>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="end"
+                    android:layout_marginStart="@dimen/_16sdp"
+                    android:layout_marginEnd="@dimen/_16sdp"
+                    style="@style/lbl10GrayRegular"
+                    android:layout_marginTop="@dimen/_2sdp"
+                    android:text="Last Updated On: November 04, 2020"
+                    android:textColor="@color/color575555"/>
+
+                <LinearLayout
+                    android:id="@+id/llBluetooth"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_15sdp"
+                    android:orientation="horizontal"
+                    android:paddingTop="@dimen/_5sdp"
+                    android:padding="@dimen/_5sdp"
+                    android:paddingStart="@dimen/_16sdp"
+                    android:paddingEnd="@dimen/_16sdp">
+
+
+                    <ImageView
+                        android:layout_width="@dimen/_20sdp"
+                        android:layout_height="@dimen/_20sdp"
+                        android:layout_gravity="bottom|center_horizontal"
+                        android:src="@drawable/ic_blutooth"
+                        android:visibility="visible" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_gravity="center"
+                        android:layout_marginStart="@dimen/_5sdp"
+                        style="@style/lbl14PrimaryMedium"
+                        android:text="Bluetooth" />
+
+                    <androidx.appcompat.widget.SwitchCompat
+                        android:id="@+id/switchBluetooth"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:width="@dimen/_40sdp"
+                        android:height="@dimen/_25sdp"
+                        android:background="@null"
+                        android:layout_marginEnd="@dimen/_minus4sdp"
+                        android:checked="true"
+                        android:button="@drawable/switch_bg"
+                        android:thumb="@null"
+                        app:track="@null" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/llBattery"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:layout_marginBottom="@dimen/_15sdp"
+                    android:orientation="horizontal"
+                    android:paddingTop="@dimen/_5sdp"
+                    android:padding="@dimen/_5sdp"
+                    android:paddingStart="@dimen/_16sdp"
+                    android:paddingEnd="@dimen/_16sdp">
+
+
+                    <ImageView
+                        android:layout_width="@dimen/_20sdp"
+                        android:layout_height="@dimen/_20sdp"
+                        android:layout_gravity="bottom|center_horizontal"
+                        android:src="@drawable/ic_battery_blue"
+                        android:visibility="visible" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_gravity="center"
+                        android:layout_marginStart="@dimen/_5sdp"
+                        style="@style/lbl14PrimaryMedium"
+                        android:text="Battery" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="end"
+                        style="@style/lbl14PrimaryMedium"
+                        android:text="98%"
+                        android:fontFamily="@font/roboto_medium"
+                        android:textColor="@color/color6C6C6C"/>
+
+
+                    <ImageView
+                        android:layout_width="@dimen/_10sdp"
+                        android:layout_height="@dimen/_10sdp"
+                        android:layout_gravity="center"
+                        android:layout_marginStart="@dimen/_5sdp"
+                        android:src="@drawable/ic_right_arrow_black"
+                        android:tint="@color/color575555"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvContinueLBL"
+                style="@style/btnGradient"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_16sdp"
+                android:layout_marginTop="@dimen/_40sdp"
+                android:layout_marginEnd="@dimen/_16sdp"
+                android:layout_marginBottom="@dimen/_30sdp"
+                android:text="CONTINUE"
+                android:visibility="gone" />
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>

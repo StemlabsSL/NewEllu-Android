@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Ellu Chat</string>
+
+    <string name="no_internet">Please check your internet connection</string>
+    <string name="network_error">Network error, could get data, please try again!</string>
+    <string name="response_error">Response error, could get data, please try again!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint">\u2022</string>
+    <string name="map_key">AIzaSyD3u0wTUEewZf1e4xy5ArvwGzdixr5AE8s</string>
+    <string name="search_something_optional">Something Else (Optional)</string>
+    <string name="please_wait">Please wait</string>
+
+    <string name="warning_enter_first_name">Please enter your full name</string>
+    <string name="warning_enter_last_name">Please enter your last name</string>
+    <string name="warning_enter_email">Please enter your email</string>
+    <string name="warning_enter_password">Please enter your password</string>
+    <string name="warning_enter_con_password">Please enter your confirm password</string>
+    <string name="warning_short_password">Please enter password at least 6 character long with special character</string>
+    <string name="warning_enter_confirm">Please enter your password</string>
+    <string name="password_mismatch">Password mismatch</string>
+    <string name="Warning_enter_phone">Please enter phone number</string>
+    <string name="Warning_short_phone">Please enter atleast 9 digits</string>
+    <string name="password_length">Please enter password at least 6 character long with special character</string>
+    <string name="invalid_email_id">Invalid email id</string>
+    <string name="please_enter_otp">Please enter otp</string>
+    <string name="invalid_otp">Invalid otp</string>
+
+    <string name="btn_authenticate">Login</string>
+
+    <string name="biometric_title">Login with fingerprint</string>
+    <string name="biometric_subtitle"></string>
+    <string name="biometric_description">Place your finger on the device sensor to verify your identity</string>
+    <string name="biometric_negative_button_text">CANCEL</string>
+
+
+    <string name="biometric_error_sdk_not_supported">Sdk version not supported</string>
+    <string name="biometric_error_hardware_not_supported">Device does not support biometric authentication</string>
+    <string name="biometric_error_fingerprint_not_available">Fingerprint is not registered in device</string>
+    <string name="biometric_error_permission_not_granted">Permission is not granted by user</string>
+    <string name="biometric_failure">Login not successful!</string>
+    <string name="biometric_cancelled">Authentication cancelled by user</string>
+    <string name="biometric_success">Login Successful</string>
+
+    <string name="facebook_app_id">241495990696886</string>
+
+
+</resources>

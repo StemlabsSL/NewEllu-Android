@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/colorFBFBFB"
+    tools:context=".ui.component.customize.fragment.CustomizeBandFragment">
+
+    <include layout="@layout/noraml_toolbar" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvCustomizeBand"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:orientation="vertical"
+        tools:itemCount="6"
+        tools:listitem="@layout/listrow_customized_band"
+        />
+
+</LinearLayout>

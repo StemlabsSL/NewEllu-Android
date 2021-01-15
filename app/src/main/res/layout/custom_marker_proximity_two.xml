@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imgReceiveArrow"
+        android:layout_width="@dimen/_10sdp"
+        android:layout_height="@dimen/_10sdp"
+        android:layout_below="@+id/tvMapStore"
+        android:layout_centerInParent="true"
+        android:layout_gravity="start"
+        android:layout_marginTop="-7dp"
+        android:elevation="@dimen/_8sdp"
+        android:src="@drawable/ic_ticket_arrow_white"
+        app:tint="@color/color7BB4D3" />
+
+    <TextView
+        android:id="@+id/tvMapStore"
+        style="@style/lbl12WhiteBold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:background="@drawable/bg_primary"
+        android:backgroundTint="@color/color7BB4D3"
+        android:paddingStart="@dimen/_7sdp"
+        android:paddingTop="@dimen/_5sdp"
+        android:paddingEnd="@dimen/_7sdp"
+        android:paddingBottom="@dimen/_5sdp"
+        android:text="Jane" />
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgv_custom_marker"
+        android:layout_width="@dimen/_35sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_below="@+id/tvMapStore"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:src="@drawable/ic_women_sample_one"
+        app:civ_border_width="2dp"
+        app:civ_border_color="@color/color7BB4D3"/>
+
+
+</RelativeLayout>
+

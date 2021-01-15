@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_media_link.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_media_link.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_contact_send.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_contact_send.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_customize_band_detail.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_customize_band_detail.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sos_send.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_sos_send.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/progress_loader.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/progress_loader.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_add_alarm.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_add_alarm.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_terms_condition.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_terms_condition.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_doc.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_doc.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_calendar_event_color.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_calendar_event_color.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_forgot_password.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_forgot_password.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_login.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_contacts_to_send.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_contacts_to_send.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/walk_person_marker_flag.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/walk_person_marker_flag.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_proximity_user.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_proximity_user.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/profile_toolbar.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/profile_toolbar.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_doc_main.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_doc_main.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_vibration_pattern.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_vibration_pattern.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_faq.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_faq.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_edit_sos_pager_contact.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_edit_sos_pager_contact.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_new_group.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_new_group.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_progress_dialog.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/view_progress_dialog.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_calendar.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_calendar.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_call_log.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_call_log.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_proximity_bottom.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_proximity_bottom.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_chat_person.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_chat_person.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_marker_sos2.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker_sos2.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_contacts.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_contacts.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_notitification_manage.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_notitification_manage.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_chat_item_click.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_chat_item_click.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_media_main.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_media_main.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_profile.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_media_link_docs.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_media_link_docs.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/itemview_listrow_events.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/itemview_listrow_events.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_s_o_s_profile.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_s_o_s_profile.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_chat_action.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_chat_action.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_alarm.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_alarm.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_navigation_menu.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_navigation_menu.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_meet_card_animation.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_meet_card_animation.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_invidividual_chat.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_invidividual_chat.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_customized_alarm_tone.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_customized_alarm_tone.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_invidividual_chat_header.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_invidividual_chat_header.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_marker_proximity_two.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker_proximity_two.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_add_new_event.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_add_new_event.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_invidividual_chat_header_sos.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_invidividual_chat_header_sos.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_about_band.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_about_band.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_report.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_report.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_message_type.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/layout_message_type.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_day_repeat_circular.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_day_repeat_circular.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_alert.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_alert.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_link_main.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_link_main.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_pager.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_pager.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_security.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_security.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_aware.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_aware.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_pager.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_pager.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_notification_manage.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_notification_manage.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_reset_password_successfully.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_reset_password_successfully.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_faq.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_faq.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/chat_toolbar.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/chat_toolbar.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_sos_end.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_sos_end.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_video_call.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_video_call.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_video_call.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_video_call.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_aware_track.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_aware_track.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_progressing_dot.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_progressing_dot.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_call_log.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_call_log.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_new_group_selection.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_new_group_selection.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sign_up.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/chat_toolbar_sos.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/chat_toolbar_sos.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_day_alarm.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_day_alarm.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_story_board.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_story_board.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_meet_contact.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_meet_contact.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_near_by_user.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_near_by_user.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_media.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_media.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_marker_proximity_three.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker_proximity_three.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/splash_layout.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/splash_layout.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_alert_header.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_alert_header.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_faq_category.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_faq_category.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_settings.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_settings.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_tips_detail.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_tips_detail.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_doc.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_doc.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sos.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_sos.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_aware_select_a_place.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_aware_select_a_place.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_alert.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_alert.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_settings.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_main_chat.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_main_chat.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_contact_header.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_contact_header.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_about_band_detail.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_about_band_detail.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_marker_proximity_one.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker_proximity_one.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_intro.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_intro.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_reset_password.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_reset_password.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_error_change_password.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_error_change_password.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_link.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_link.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_calendar_event_person.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_calendar_event_person.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_mute_notification.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_mute_notification.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_verify_otp.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_verify_otp.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_proximity.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_proximity.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/noraml_toolbar.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/noraml_toolbar.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_customize_band.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_customize_band.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/itemview_listrow_calender.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/itemview_listrow_calender.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_chat_main_list.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_chat_main_list.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_turorial.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_turorial.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_marker_sos.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker_sos.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_tips_detail.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_tips_detail.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_proximity.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_proximity.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_customized_band.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_customized_band.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_profile_photo_selection.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_profile_photo_selection.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_select_location.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_select_location.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_marker.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_marker_proximity_four.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker_proximity_four.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_link.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_link.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login_flow.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/activity_login_flow.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_alarm.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_alarm.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_battery.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_battery.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_change_password.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_change_password.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/menu_title_icon.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/menu_title_icon.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_main_fragment.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_main_fragment.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_privacy_policy.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_privacy_policy.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_marker_flag.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/custom_marker_flag.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_add_new_contact.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_add_new_contact.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_update_band.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_update_band.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_media.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_media.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_sos_end_overlay.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_sos_end_overlay.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_reset_band.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_reset_band.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_otp.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/view_otp.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_individual_chat.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_individual_chat.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_share_location.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_share_location.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_new_group.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/item_new_group.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listrow_sos.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/listrow_sos.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_alarm_name.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/dialog_alarm_name.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_select_a_place.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_select_a_place.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_contacts_all_sos_pager.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_contacts_all_sos_pager.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_meet_sender.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_meet_sender.xml"
+    },
+    {
+        "merged": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_proximity_map.xml",
+        "source": "/Projects/Kotlin projects/vishantkotlin/Ellu/app/src/main/res/layout/fragment_proximity_map.xml"
+    }
+]

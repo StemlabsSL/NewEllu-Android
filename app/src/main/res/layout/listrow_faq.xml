@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardViewFaq"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_3sdp"
+        android:layout_marginBottom="@dimen/_3sdp"
+        android:elevation="@dimen/_2sdp"
+        app:cardCornerRadius="0dp"
+        app:cardElevation="@dimen/_3sdp"
+        app:cardPreventCornerOverlap="false"
+        app:cardUseCompatPadding="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingStart="@dimen/_25sdp"
+            android:paddingTop="@dimen/_15sdp"
+            android:paddingEnd="@dimen/_25sdp"
+            android:paddingBottom="@dimen/_15sdp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tvFaqQuestion"
+                    style="@style/lbl12GrayMedium"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="What is Ellu?" />
+
+                <ImageView
+                    android:id="@+id/imgArrowFaq"
+                    android:layout_width="@dimen/_11sdp"
+                    android:layout_height="@dimen/_11sdp"
+                    android:rotation="270"
+                    android:src="@drawable/ic_down_arrow"
+                    android:tint="@color/colorPrimary" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvFaqAnswer"
+                style="@style/lbl12GrayRegular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:lineSpacingExtra="@dimen/_5sdp"
+                android:text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata."
+                android:visibility="gone">
+
+            </TextView>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

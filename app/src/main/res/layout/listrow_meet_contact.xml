@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/_56sdp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgMeetProfile"
+        android:layout_width="@dimen/_45sdp"
+        android:layout_height="@dimen/_45sdp"
+        android:src="@drawable/sample1"
+        android:layout_margin="@dimen/_2sdp"
+        android:elevation="@dimen/_3sdp"/>
+
+    <ImageView
+        android:id="@+id/imgMeetStatus"
+        android:layout_width="@dimen/_14sdp"
+        android:layout_height="@dimen/_14sdp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/ic_red_close"
+        android:layout_marginEnd="@dimen/_6sdp"
+        android:layout_marginTop="@dimen/_28sdp"
+        android:elevation="@dimen/_4sdp"/>
+
+    <TextView
+        android:id="@+id/tvMeetPersonName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="You"
+        style="@style/lbl12GrayRegular"
+        android:textSize="@dimen/_8ssp"
+        android:textColor="@color/color575555"
+        android:layout_marginTop="@dimen/_3sdp"
+        android:layout_marginStart="@dimen/_15sdp"
+        android:layout_below="@+id/imgMeetProfile" />
+
+
+</RelativeLayout>

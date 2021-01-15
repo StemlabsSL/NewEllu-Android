@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingTop="@dimen/_10sdp"
+    android:paddingBottom="@dimen/_10sdp">
+
+
+    <RadioButton
+        android:id="@+id/rbNotificationManage"
+        android:layout_width="@dimen/_22ssp"
+        android:layout_height="@dimen/_22ssp"
+        android:button="@color/transparent"
+        android:background="@drawable/radio_bg" />
+
+    <TextView
+        android:id="@+id/tvNotificationManageTitle"
+        style="@style/lbl14BlackMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_12sdp"
+        android:text="Ripple" />
+
+</LinearLayout>

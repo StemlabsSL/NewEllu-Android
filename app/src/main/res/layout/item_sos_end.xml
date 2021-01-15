@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/llItemMain"
+    android:elevation="@dimen/_3sdp"
+    android:paddingStart="@dimen/_20sdp"
+    android:paddingEnd="@dimen/_20sdp"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="@dimen/_7sdp"
+        android:paddingBottom="@dimen/_7sdp">
+
+
+        <RadioButton
+            android:id="@+id/rbSos"
+            android:layout_width="@dimen/_22ssp"
+            android:layout_height="@dimen/_22ssp"
+            android:editable="false"
+            android:clickable="false"
+            android:focusableInTouchMode="false"
+            android:focusable="false"
+            android:button="@color/transparent"
+            android:background="@drawable/radio_bg"
+            android:backgroundTint="@color/colorFF5252"/>
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:textColor="@color/colorEB7D80"
+            style="@style/lbl14BlackMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_12sdp" />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

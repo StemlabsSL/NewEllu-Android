@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/actionMediaLinks"
+        android:title="Media, Links and Docs"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/actionSearch"
+        android:title="Search"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/actionMuteNotification"
+        android:title="Mute Notification"
+        app:showAsAction="never" />
+
+    <!--<item
+        android:id="@+id/actionMore"
+        android:icon="@drawable/ic_more_black"
+        android:title="More"
+        app:showAsAction="never" />-->
+
+    <item
+        android:id="@+id/actionMore"
+        android:title="More"
+        app:showAsAction="collapseActionView">
+        <menu>
+
+
+            <item
+                android:id="@+id/actionReport"
+                android:title="Report"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/actionBlock"
+                android:title="Block"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/actionClearChat"
+                android:title="Clear Chat"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/actionExportChat"
+                android:title="Export Chat"
+                app:showAsAction="never" />
+
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorFBFBFB"
+    android:orientation="vertical"
+    tools:context=".ui.component.alarm.fragment.AddAlarmFragment">
+
+    <include layout="@layout/noraml_toolbar" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_150sdp"
+                android:layout_marginTop="@dimen/_22sdp"
+                android:layout_marginBottom="@dimen/_15sdp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <com.weigan.loopview.LoopView
+                    android:id="@+id/loopAMPM"
+                    android:layout_width="@dimen/_55sdp"
+                    android:layout_height="match_parent"
+                    android:background="@android:color/transparent" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/color35707070" />
+
+                <com.weigan.loopview.LoopView
+                    android:id="@+id/loopHour"
+                    android:layout_width="@dimen/_55sdp"
+                    android:layout_height="match_parent"
+                    android:background="@android:color/transparent" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/color35707070" />
+
+                <com.weigan.loopview.LoopView
+                    android:id="@+id/loopMinute"
+                    android:layout_width="@dimen/_55sdp"
+                    android:layout_height="match_parent"
+                    android:background="@android:color/transparent" />
+
+
+            </LinearLayout>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewRepeat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:elevation="@dimen/_2sdp"
+                app:cardCornerRadius="0dp"
+                app:cardElevation="@dimen/_3sdp"
+                app:cardPreventCornerOverlap="false"
+                app:cardUseCompatPadding="false">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:paddingStart="@dimen/_16sdp"
+                    android:paddingTop="@dimen/_15sdp"
+                    android:paddingEnd="@dimen/_16sdp"
+                    android:paddingBottom="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/llRepeat"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@color/colorWhite"
+                        android:orientation="vertical">
+
+
+                        <TextView
+                            android:id="@+id/tvRepeatLBL"
+                            style="@style/lbl12GrayBold"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Repeat" />
+
+
+                        <androidx.recyclerview.widget.RecyclerView
+                            android:id="@+id/rvRepeatCalendar"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                            tools:itemCount="7"
+                            android:visibility="visible"
+                            tools:listitem="@layout/listrow_day_repeat_circular" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imgArrow"
+                        android:layout_width="@dimen/_11sdp"
+                        android:layout_height="@dimen/_11sdp"
+                        android:layout_gravity="center"
+                        android:rotation="90"
+                        android:src="@drawable/ic_right_arrow_black"
+                        android:tint="@color/color73C5F3" />
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewAlarmName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:elevation="@dimen/_3sdp"
+                app:cardCornerRadius="0dp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                app:cardElevation="@dimen/_3sdp"
+                app:cardPreventCornerOverlap="false"
+                app:cardUseCompatPadding="false">
+
+                <LinearLayout
+                    android:id="@+id/llAlarmName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorFBF8F8"
+                    android:orientation="horizontal"
+                    android:paddingStart="@dimen/_16sdp"
+                    android:paddingTop="@dimen/_18sdp"
+                    android:paddingEnd="@dimen/_16sdp"
+                    android:paddingBottom="@dimen/_18sdp">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/tvAlarmNameLBL"
+                            style="@style/lbl12GrayBold"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Alarm Name" />
+
+                        <TextView
+                            android:id="@+id/tvAlarmName"
+                            style="@style/lbl12GrayRegular"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Pick Dad"
+                            android:fontFamily="@font/roboto_medium"
+                            android:textColor="@color/color959593"
+                            android:textSize="@dimen/_9ssp" />
+
+
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imgArrowAlarmName"
+                        android:layout_width="@dimen/_11sdp"
+                        android:layout_height="@dimen/_11sdp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_right_arrow_black"
+                        android:tint="@color/color73C5F3" />
+
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewAlarmSound"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:elevation="@dimen/_2sdp"
+                app:cardCornerRadius="0dp"
+                app:cardElevation="@dimen/_3sdp"
+                app:cardPreventCornerOverlap="false"
+                app:cardUseCompatPadding="false">
+
+                <LinearLayout
+                    android:id="@+id/llAlarmSound"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorWhite"
+                    android:orientation="horizontal"
+                    android:paddingStart="@dimen/_16sdp"
+                    android:paddingTop="@dimen/_20sdp"
+                    android:paddingEnd="@dimen/_16sdp"
+                    android:paddingBottom="@dimen/_20sdp"
+                    android:weightSum="1">
+
+
+                    <TextView
+                        android:id="@+id/tvAlarmSoundLBL"
+                        style="@style/lbl12GrayBold"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_gravity="center"
+                        android:text="Alarm Sound" />
+
+
+                    <androidx.appcompat.widget.SwitchCompat
+                        android:id="@+id/switchAlarmSound"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:width="@dimen/_35sdp"
+                        android:height="@dimen/_25sdp"
+                        android:background="@null"
+                        android:button="@drawable/switch_bg"
+                        android:checked="true"
+                        android:thumb="@null"
+                        app:track="@null" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewVibration"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:elevation="@dimen/_2sdp"
+                app:cardCornerRadius="0dp"
+                app:cardElevation="@dimen/_3sdp"
+                app:cardPreventCornerOverlap="false"
+                app:cardUseCompatPadding="false">
+
+                <LinearLayout
+                    android:id="@+id/llVibration"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorFBF8F8"
+                    android:orientation="horizontal"
+                    android:paddingStart="@dimen/_16sdp"
+                    android:paddingTop="@dimen/_20sdp"
+                    android:paddingEnd="@dimen/_16sdp"
+                    android:paddingBottom="@dimen/_20sdp"
+                    android:weightSum="1">
+
+
+                    <TextView
+                        android:id="@+id/tvVibrationLBL"
+                        style="@style/lbl12GrayBold"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_gravity="center"
+                        android:text="Vibration (Ellu Band)" />
+
+
+                    <androidx.appcompat.widget.SwitchCompat
+                        android:id="@+id/switchVibration"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:width="@dimen/_35sdp"
+                        android:height="@dimen/_25sdp"
+                        android:background="@null"
+                        android:button="@drawable/switch_bg"
+                        android:checked="true"
+                        android:thumb="@null"
+                        app:track="@null" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardSnooze"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:elevation="@dimen/_2sdp"
+                app:cardCornerRadius="0dp"
+                app:cardElevation="@dimen/_3sdp"
+                app:cardPreventCornerOverlap="false"
+                app:cardUseCompatPadding="false">
+
+                <LinearLayout
+                    android:id="@+id/llSnooze"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorFBFBFB"
+                    android:orientation="horizontal"
+                    android:paddingStart="@dimen/_16sdp"
+                    android:paddingTop="@dimen/_18sdp"
+                    android:paddingEnd="@dimen/_16sdp"
+                    android:paddingBottom="@dimen/_18sdp">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+
+                        <TextView
+                            android:id="@+id/tvSnoozeLBL"
+                            style="@style/lbl12GrayBold"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Snooze" />
+
+
+                        <TextView
+                            android:id="@+id/tvSnoozeTime"
+                            style="@style/lbl12GrayRegular"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="15 Minutes"
+                            android:fontFamily="@font/roboto_medium"
+                            android:textColor="@color/color959593"
+                            android:textSize="@dimen/_9ssp" />
+
+
+                    </LinearLayout>
+
+                    <androidx.appcompat.widget.SwitchCompat
+                        android:id="@+id/switchSnooze"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:width="@dimen/_35sdp"
+                        android:height="@dimen/_25sdp"
+                        android:background="@null"
+                        android:button="@drawable/switch_bg"
+                        android:checked="true"
+                        android:thumb="@null"
+                        app:track="@null" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <ImageView
+                android:id="@+id/imgSaveAlarm"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="@dimen/_60sdp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/_25sdp"
+                android:layout_marginBottom="@dimen/_40sdp"
+                android:src="@drawable/ic_save_alarm" />
+
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

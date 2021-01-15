@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/colorWhite"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingEnd="@dimen/_22sdp"
+        android:paddingStart="@dimen/_22sdp"
+        android:paddingTop="@dimen/_20sdp"
+        android:paddingBottom="@dimen/_20sdp">
+
+        <RadioButton
+            android:id="@+id/rbVibrationPattern"
+            android:layout_width="@dimen/_22ssp"
+            android:layout_height="@dimen/_22ssp"
+            android:background="@drawable/radio_bg"
+            android:button="@color/transparent" />
+
+        <TextView
+            android:id="@+id/tvVibrationPatternTitle"
+            style="@style/lbl14BlackBold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_12sdp"
+            android:text="Ripple"
+            android:textSize="@dimen/_13ssp"/>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/viewDivider"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginStart="@dimen/_12sdp"
+        android:layout_marginEnd="@dimen/_12sdp"
+        android:background="@color/colorE1E1E1"/>
+</LinearLayout>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    android:clickable="true"
+    android:orientation="vertical"
+    tools:context=".ui.component.chat.fragment.IndividualChatFragment">
+
+    <include layout="@layout/chat_toolbar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rvIndividualChat"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                tools:itemCount="6"
+                tools:listitem="@layout/listrow_invidividual_chat_header">
+
+            </androidx.recyclerview.widget.RecyclerView>
+
+            <LinearLayout
+                android:id="@+id/llAction"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/llStatusMessageSend"
+                android:layout_gravity="bottom"
+                android:tag=""
+                android:visibility="gone">
+
+                <include layout="@layout/layout_message_type" />
+            </LinearLayout>
+
+        </FrameLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/_13sdp"
+        android:paddingEnd="@dimen/_16sdp"
+        android:paddingBottom="@dimen/_13sdp">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardViewSendMessage"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_2sdp"
+            android:layout_marginTop="@dimen/_3sdp"
+            android:layout_marginBottom="@dimen/_3sdp"
+            android:layout_weight="1"
+            android:elevation="@dimen/_5sdp"
+            app:cardCornerRadius="@dimen/_10sdp"
+            app:cardElevation="@dimen/_3sdp"
+            app:cardPreventCornerOverlap="false"
+            app:cardUseCompatPadding="false">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/llReplyChat"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_12sdp"
+                    android:layout_marginTop="@dimen/_12sdp"
+                    android:layout_marginEnd="@dimen/_12sdp"
+                    android:background="@drawable/curve_reply_chat"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/_5sdp"
+                    android:visibility="gone">
+
+                    <!--<View
+                        android:layout_width="@dimen/_4sdp"
+                        android:layout_height="match_parent"
+                        android:background="@color/color007DC5" />
+-->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_7sdp"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginEnd="@dimen/_5sdp"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                style="@style/lbl12PrimaryBold"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="Jane Doe" />
+
+
+                            <ImageView
+                                android:id="@+id/imgClose"
+                                android:layout_width="@dimen/_12sdp"
+                                android:layout_height="@dimen/_12sdp"
+                                android:layout_gravity="center"
+                                android:padding="@dimen/_3sdp"
+                                android:src="@drawable/ic_close_white"
+                                android:tint="@color/color707070" />
+                        </LinearLayout>
+
+                        <TextView
+                            style="@style/lbl12BlackRegular"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/_3sdp"
+                            android:lineSpacingExtra="@dimen/_3sdp"
+                            android:text="How are you? I am actually thinking meeting you near opera house!"
+                            android:textSize="@dimen/_10ssp" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llSendMessage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorWhite"
+                    android:orientation="horizontal"
+                    android:paddingStart="@dimen/_12sdp"
+                    android:paddingTop="@dimen/_12sdp"
+                    android:paddingEnd="@dimen/_12sdp"
+                    android:paddingBottom="@dimen/_12sdp">
+
+
+                    <FrameLayout
+                        android:id="@+id/frameAddAction"
+                        android:layout_width="@dimen/_18sdp"
+                        android:layout_height="@dimen/_18sdp"
+                        android:layout_gravity="center_vertical"
+                        android:background="@drawable/border_primary_small_curve"
+                        android:backgroundTint="@color/color4CB1EB">
+
+                        <ImageView
+                            android:id="@+id/imgPlusButton"
+                            android:layout_width="@dimen/_10sdp"
+                            android:layout_height="@dimen/_10sdp"
+                            android:layout_gravity="center"
+                            android:src="@drawable/img_plus" />
+
+                    </FrameLayout>
+
+                    <EditText
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginStart="@dimen/_5sdp"
+                        android:layout_marginEnd="@dimen/_5sdp"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:fontFamily="@font/raleway_medium"
+                        android:hint="Enter message"
+                        android:text=""
+                        android:textColor="@color/colorBlack"
+                        android:textSize="@dimen/_14ssp" />
+
+                    <ImageView
+                        android:layout_width="@dimen/_25sdp"
+                        android:layout_height="@dimen/_25sdp"
+                        android:padding="@dimen/_2sdp"
+                        android:src="@drawable/ic_audio" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+
+        <ImageView
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:layout_gravity="bottom"
+            android:layout_marginStart="@dimen/_15sdp"
+            android:src="@drawable/ic_send_chat" />
+
+
+    </LinearLayout>
+</LinearLayout>

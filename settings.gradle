@@ -1,0 +1,8 @@
+include ':biometric-auth'
+include ':calendar-lib'
+include ':fastscrolleralphabet'
+include ':ccp'
+include ':app'
+include ':loopview'
+include ':library'
+

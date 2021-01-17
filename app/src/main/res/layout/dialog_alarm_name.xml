@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_160sdp"
+    android:layout_marginStart="@dimen/_15sdp"
+    android:layout_marginEnd="@dimen/_15sdp"
+    android:background="@drawable/curve_primary_white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/_15sdp">
+
+        <TextView
+            android:id="@+id/tvSetAlarmNameLBL"
+            style="@style/lbl12PrimaryRegular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:gravity="center"
+            android:text="Set Alarm Name" />
+
+        <EditText
+            android:id="@+id/edtAlarmName"
+            style="@style/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:background="@null"
+            android:hint="Enter Alarm Name"
+            android:text="Pick Dad"
+            android:textColor="@color/colorBlack"
+            android:textColorHint="@color/colorD6D6D6"
+            android:textSize="@dimen/_14ssp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginBottom="@dimen/_20sdp"
+            android:background="@color/colorD6D6D6" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tvCancelLBL"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/border_red_curve"
+                android:fontFamily="@font/raleway_regular"
+                android:gravity="center"
+                android:padding="@dimen/_5sdp"
+                android:text="CANCEL"
+                android:textColor="@color/colorEF355B"
+                android:textSize="@dimen/_12ssp" />
+
+            <TextView
+                android:id="@+id/tvSetLBL"
+                style="@style/btnGradient"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:layout_weight="1"
+                android:background="@drawable/small_curve_primary_solid"
+                android:backgroundTint="@color/colorPrimary"
+                android:fontFamily="@font/raleway_regular"
+                android:gravity="center"
+                android:padding="@dimen/_5sdp"
+                android:text="Set"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_12ssp" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

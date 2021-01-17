@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.component.settings.fragment.SettingsFragment">
+
+    <include layout="@layout/noraml_toolbar" />
+
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_170sdp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:alpha="0.7"
+                    android:src="@color/colorWhite" />
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="@dimen/_80sdp"
+                    android:layout_height="@dimen/_80sdp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="@dimen/_30sdp"
+                    android:layout_marginBottom="@dimen/_30sdp"
+                    android:elevation="@dimen/_5sdp"
+                    android:src="@color/colorF38590" />
+
+                <ImageView
+                    android:layout_width="@dimen/_30sdp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:src="@drawable/ic_cup_white"
+                    android:layout_gravity="center"
+                    android:elevation="@dimen/_60sdp"/>
+
+            </FrameLayout>
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="@dimen/_minus10sdp"
+                android:elevation="@dimen/_5sdp"
+                app:cardCornerRadius="@dimen/_20sdp"
+                app:cardElevation="@dimen/_3sdp"
+                app:cardPreventCornerOverlap="false"
+                app:cardUseCompatPadding="false">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/llSenderView"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:paddingStart="@dimen/_25sdp"
+                        android:paddingTop="@dimen/_20sdp"
+                        android:paddingEnd="@dimen/_25sdp"
+                        android:paddingBottom="@dimen/_20sdp"
+                        android:visibility="gone">
+
+                        <EditText
+                            android:id="@+id/edtLetMeetTitle"
+                            style="@style/editTextBlack"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Title"
+                            android:textColorHint="@color/colorBlack" />
+
+                        <RelativeLayout
+                            android:id="@+id/rlWhereLetMeetLocation"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/_15sdp">
+
+                            <EditText
+                                android:id="@+id/edtLetMeetLocation"
+                                style="@style/editTextBlack"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="Where..."
+                                android:paddingEnd="@dimen/_30sdp"
+                                android:text=""
+                                android:textColorHint="@color/colorBlack" />
+
+
+                            <ImageView
+                                android:layout_width="@dimen/_16sdp"
+                                android:layout_height="@dimen/_16sdp"
+                                android:layout_alignParentEnd="true"
+                                android:layout_marginTop="@dimen/_20sdp"
+                                android:layout_marginBottom="@dimen/_13sdp"
+                                android:src="@drawable/ic_location"
+                                android:tint="@color/color3179A2" />
+
+
+                        </RelativeLayout>
+
+
+                        <LinearLayout
+                            android:id="@+id/llMeetDateTime"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/_15sdp"
+                            android:orientation="horizontal">
+
+                            <LinearLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:orientation="vertical">
+
+                                <LinearLayout
+                                    android:id="@+id/llLetMeetDate"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:paddingTop="@dimen/_10sdp"
+                                    android:paddingBottom="@dimen/_10sdp">
+
+                                    <TextView
+                                        android:id="@+id/tvLetMeetDate"
+                                        style="@style/lbl12BlackMedium"
+                                        android:layout_width="0dp"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="1"
+                                        android:text="Date" />
+
+                                    <ImageView
+                                        android:layout_width="@dimen/_16sdp"
+                                        android:layout_height="@dimen/_16sdp"
+                                        android:layout_gravity="center"
+                                        android:src="@drawable/ic_date_meet"
+                                        android:tint="@color/color3179A2" />
+                                </LinearLayout>
+
+                                <View
+                                    android:layout_width="match_parent"
+                                    android:layout_height="1dp"
+                                    android:background="@color/color20Black" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="@dimen/_15sdp"
+                                android:layout_weight="1"
+                                android:orientation="vertical">
+
+                                <LinearLayout
+                                    android:id="@+id/llLetMeetTime"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:paddingTop="@dimen/_10sdp"
+                                    android:paddingBottom="@dimen/_10sdp">
+
+                                    <TextView
+                                        android:id="@+id/tvLetMeetTime"
+                                        style="@style/lbl12BlackMedium"
+                                        android:layout_width="0dp"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="1"
+                                        android:text="Time" />
+
+                                    <ImageView
+                                        android:layout_width="@dimen/_16sdp"
+                                        android:layout_height="@dimen/_16sdp"
+                                        android:layout_gravity="center"
+                                        android:src="@drawable/ic_time_black"
+                                        android:tint="@color/color3179A2" />
+                                </LinearLayout>
+
+                                <View
+                                    android:layout_width="match_parent"
+                                    android:layout_height="1dp"
+                                    android:background="@color/color20Black" />
+
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                        <EditText
+                            android:id="@+id/edtSomethingElse"
+                            style="@style/editTextBlack"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/_20sdp"
+                            android:hint="@string/search_something_optional"
+                            android:textColorHint="@color/colorBlack" />
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/llReceiverView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:paddingStart="@dimen/_20sdp"
+                        android:paddingTop="@dimen/_20sdp"
+                        android:paddingEnd="@dimen/_20sdp"
+                        android:paddingBottom="@dimen/_40sdp"
+                        android:visibility="visible">
+
+                        <LinearLayout
+                            android:id="@+id/llReceiverTopView"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginBottom="@dimen/_15sdp"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/tvLaunchLBL"
+                                style="@style/lbl14BlackBold"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/_10sdp"
+                                android:text="Launch"
+                                android:textSize="@dimen/_16ssp" />
+
+                            <LinearLayout
+                                android:id="@+id/llReceiverMeetLocation"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/_15sdp"
+                                android:orientation="horizontal">
+
+                                <ImageView
+                                    android:layout_width="@dimen/_16sdp"
+                                    android:layout_height="@dimen/_16sdp"
+                                    android:src="@drawable/ic_location"
+                                    android:tint="@color/color3179A2" />
+
+                                <TextView
+                                    style="@style/lbl12BlackRegular"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center"
+                                    android:layout_marginStart="@dimen/_10sdp"
+                                    android:text="Meat The Cheese" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:id="@+id/llReceiverMeetDateTime"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/_15sdp"
+                                android:orientation="horizontal">
+
+                                <LinearLayout
+                                    android:layout_width="0dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:orientation="vertical">
+
+                                    <LinearLayout
+                                        android:id="@+id/llLetReceiverMeetDate"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:orientation="horizontal"
+                                        android:paddingTop="@dimen/_10sdp"
+                                        android:paddingBottom="@dimen/_10sdp">
+
+                                        <ImageView
+                                            android:layout_width="@dimen/_16sdp"
+                                            android:layout_height="@dimen/_16sdp"
+                                            android:layout_gravity="center"
+                                            android:src="@drawable/ic_date_meet"
+                                            android:tint="@color/color3179A2" />
+
+                                        <TextView
+                                            android:id="@+id/tvLetRecieverMeetDate"
+                                            style="@style/lbl12BlackMedium"
+                                            android:layout_width="0dp"
+                                            android:fontFamily="@font/roboto_medium"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginStart="@dimen/_10sdp"
+                                            android:layout_weight="1"
+                                            android:text="Nov 17, 2018" />
+
+
+                                    </LinearLayout>
+
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="0dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginStart="@dimen/_15sdp"
+                                    android:layout_weight="1"
+                                    android:orientation="vertical">
+
+                                    <LinearLayout
+                                        android:id="@+id/llLetRecieverMeetTime"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:orientation="horizontal"
+                                        android:paddingTop="@dimen/_10sdp"
+                                        android:paddingBottom="@dimen/_10sdp">
+
+                                        <ImageView
+                                            android:layout_width="@dimen/_16sdp"
+                                            android:layout_height="@dimen/_16sdp"
+                                            android:layout_gravity="center"
+                                            android:src="@drawable/ic_time_black"
+                                            android:tint="@color/color3179A2" />
+
+                                        <TextView
+                                            android:id="@+id/tvLetRecieverMeetTime"
+                                            style="@style/lbl12BlackMedium"
+                                            android:layout_width="0dp"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginStart="@dimen/_10sdp"
+                                            android:fontFamily="@font/roboto_medium"
+
+                                            android:layout_weight="1"
+                                            android:text="12:30 PM" />
+
+
+                                    </LinearLayout>
+                                </LinearLayout>
+
+
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                        <ImageView
+                            android:id="@+id/imgMap"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_170sdp"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/ic_chat_map" />
+
+                        <TextView
+                            android:id="@+id/tvWhoCommingLBL"
+                            style="@style/lbl14BlackBold"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/_15sdp"
+                            android:text="Who is Coming?"
+                            android:textSize="@dimen/_16ssp" />
+
+
+                        <androidx.recyclerview.widget.RecyclerView
+                            android:id="@+id/rvMeetPerson"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/_10sdp"
+                            android:orientation="horizontal"
+                            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                            tools:listitem="@layout/item_chat_person" />
+
+
+                        <LinearLayout
+                            android:id="@+id/llResponse"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/_20sdp"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:id="@+id/tvResponseLBL"
+                                style="@style/lbl14BlackBold"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="Response"
+                                android:textColor="@color/color575555"
+                                android:textSize="@dimen/_14ssp" />
+
+
+                            <TextView
+                                android:id="@+id/tvYESLBL"
+                                android:layout_width="@dimen/_60sdp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="@dimen/_10sdp"
+                                android:background="@drawable/small_curve_primary_solid"
+                                android:backgroundTint="@color/color00B806"
+                                android:fontFamily="@font/raleway_medium"
+                                android:gravity="center"
+                                android:padding="@dimen/_5sdp"
+                                android:text="YES"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/_12ssp" />
+
+                            <TextView
+                                android:id="@+id/tvNOLBL"
+                                android:layout_width="@dimen/_60sdp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="@dimen/_10sdp"
+                                android:background="@drawable/border_red_curve"
+                                android:fontFamily="@font/raleway_medium"
+                                android:gravity="center"
+                                android:padding="@dimen/_5sdp"
+                                android:text="NO"
+                                android:textColor="@color/colorEF355B"
+                                android:textSize="@dimen/_12ssp" />
+
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/tvSendLBL"
+                        style="@style/btnGradient"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_20sdp"
+                        android:layout_marginEnd="@dimen/_20sdp"
+                        android:layout_marginBottom="@dimen/_50sdp"
+                        android:alpha="0.6"
+                        android:text="SEND"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+
+        </LinearLayout>
+
+
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_margin="@dimen/_16sdp"
+    android:layout_height="wrap_content">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/ivAction"
+        android:layout_width="@dimen/_56sdp"
+        android:layout_height="@dimen/_56sdp"
+        android:padding="@dimen/_4sdp"
+        android:src="@drawable/ic_profile_main_user_round" />
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivAction"
+        android:layout_alignEnd="@+id/ivAction"
+        android:layout_marginTop="@dimen/_4sdp"
+        android:fontFamily="@font/raleway_medium"
+        android:gravity="center"
+        android:text="Angelina"
+        android:textColor="@color/colorBlack"
+        android:textSize="@dimen/_10ssp" />
+
+</RelativeLayout>
+

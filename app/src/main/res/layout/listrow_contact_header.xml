@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvHeaderContact"
+        style="@style/lbl12GrayBold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorE9E9E9"
+        android:paddingStart="@dimen/_16sdp"
+        android:paddingTop="@dimen/_4sdp"
+        android:paddingEnd="@dimen/_16sdp"
+        android:paddingBottom="@dimen/_4sdp"
+        android:text="A"
+        android:textColor="@color/color575555" />
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvContacts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:orientation="vertical"
+        tools:listitem="@layout/listrow_contacts"
+        tools:itemCount="3"
+        />
+</LinearLayout>

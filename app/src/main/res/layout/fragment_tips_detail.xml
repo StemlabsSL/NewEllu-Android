@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorFBFBFB"
+    android:orientation="vertical"
+    tools:context=".ui.component.aboutband.fragment.TipsDetailFragment">
+
+    <include layout="@layout/noraml_toolbar" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <androidx.viewpager.widget.ViewPager
+                    android:id="@+id/viewPagerAlert"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_260sdp"
+                    android:layoutDirection="ltr">
+
+                </androidx.viewpager.widget.ViewPager>
+
+                <me.relex.circleindicator.CircleIndicator
+                    android:id="@+id/tabLayoutAlert"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_32sdp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/_170sdp"
+                    android:layoutDirection="ltr"
+                    app:ci_animator="@anim/alpha"
+                    app:ci_drawable="@drawable/selected_dot"
+                    app:ci_drawable_unselected="@drawable/default_dot"
+                    app:ci_gravity="center"
+                    app:ci_height="@dimen/_5sdp"
+                    app:ci_margin="@dimen/_2sdp"
+                    app:ci_width="@dimen/_5sdp" />
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_260sdp"
+                android:layout_marginTop="@dimen/_5sdp">
+
+                <androidx.viewpager.widget.ViewPager
+                    android:id="@+id/viewPagerLED"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layoutDirection="ltr">
+
+                </androidx.viewpager.widget.ViewPager>
+
+                <me.relex.circleindicator.CircleIndicator
+                    android:id="@+id/tabLayoutLED"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_32sdp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/_170sdp"
+                    android:layoutDirection="ltr"
+                    app:ci_animator="@anim/alpha"
+                    app:ci_drawable="@drawable/selected_dot"
+                    app:ci_drawable_unselected="@drawable/default_dot"
+                    app:ci_gravity="center"
+                    app:ci_height="@dimen/_5sdp"
+                    app:ci_margin="@dimen/_2sdp"
+                    app:ci_width="@dimen/_5sdp" />
+
+            </FrameLayout>
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp">
+
+                <androidx.viewpager.widget.ViewPager
+                    android:id="@+id/viewPagerBattery"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_260sdp"
+                    android:layoutDirection="ltr">
+
+                </androidx.viewpager.widget.ViewPager>
+
+                <me.relex.circleindicator.CircleIndicator
+                    android:id="@+id/tabLayoutBattery"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_32sdp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/_170sdp"
+                    android:layoutDirection="ltr"
+                    app:ci_animator="@anim/alpha"
+                    app:ci_drawable="@drawable/selected_dot"
+                    app:ci_drawable_unselected="@drawable/default_dot"
+                    app:ci_gravity="center"
+                    app:ci_height="@dimen/_5sdp"
+                    app:ci_margin="@dimen/_2sdp"
+                    app:ci_width="@dimen/_5sdp" />
+
+            </FrameLayout>
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_marginBottom="@dimen/_15sdp">
+
+                <androidx.viewpager.widget.ViewPager
+                    android:id="@+id/viewPagerLostConnection"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_260sdp"
+                    android:layoutDirection="ltr">
+
+                </androidx.viewpager.widget.ViewPager>
+
+                <me.relex.circleindicator.CircleIndicator
+                    android:id="@+id/tabLayoutLostConnection"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_32sdp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/_170sdp"
+                    android:layoutDirection="ltr"
+                    app:ci_animator="@anim/alpha"
+                    android:visibility="gone"
+                    app:ci_drawable="@drawable/selected_dot"
+                    app:ci_drawable_unselected="@drawable/default_dot"
+                    app:ci_gravity="center"
+                    app:ci_height="@dimen/_5sdp"
+                    app:ci_margin="@dimen/_2sdp"
+                    app:ci_width="@dimen/_5sdp" />
+
+            </FrameLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

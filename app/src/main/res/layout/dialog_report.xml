@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/_10sdp"
+    android:layout_marginEnd="@dimen/_10sdp"
+    android:background="@drawable/curve_primary_white"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/_10sdp"
+    android:paddingEnd="@dimen/_10sdp"
+    android:paddingStart="@dimen/_10sdp"
+    android:paddingBottom="@dimen/_10sdp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/_5ssp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvReportContactLBL"
+            style="@style/lbl14PrimaryBold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:text="Report this contact to Ellu?" />
+
+        <TextView
+            android:id="@+id/tvDeleteChatQuestion"
+            style="@style/lbl12BlackMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Are you sure you want to clear messages in this chat?"
+            android:textColor="@color/color575555"
+            android:textSize="@dimen/_11ssp"
+            android:visibility="gone" />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/llBlockContact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="@dimen/_12sdp">
+
+        <CheckBox
+            android:id="@+id/checkBoxBlockContact"
+            android:layout_width="@dimen/_17sdp"
+            android:layout_height="@dimen/_17sdp"
+            android:layout_marginTop="@dimen/_1sdp"
+            android:background="@drawable/bg_checkbox"
+            android:button="@null"
+            android:checked="true" />
+
+        <TextView
+            android:id="@+id/tvBlockContact"
+            style="@style/lbl12BlackMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_7sdp"
+            android:text="Block contact and delete this chat's messages"
+            android:textSize="@dimen/_9ssp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_13sdp"
+        android:gravity="end"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tvCancelLBL"
+            style="@style/lbl12PrimaryMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:fontFamily="@font/roboto_medium"
+            android:padding="@dimen/_5sdp"
+            android:text="CANCEL" />
+
+        <TextView
+            android:id="@+id/tvReportLBL"
+            style="@style/lbl12PrimaryMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:fontFamily="@font/roboto_medium"
+            android:padding="@dimen/_5sdp"
+            android:text="REPORT" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

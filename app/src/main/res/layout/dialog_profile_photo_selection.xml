@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/_15sdp"
+    android:layout_marginEnd="@dimen/_15sdp"
+    android:background="@drawable/curve_primary_white"
+    android:orientation="vertical"
+    android:padding="@dimen/_10sdp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvProfilePhotoLBL"
+            style="@style/lbl14PrimaryBold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:text="Profile Photo" />
+
+
+
+        <LinearLayout
+            android:id="@+id/llRemovePhoto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:padding="@dimen/_10sdp">
+
+            <ImageView
+                android:id="@+id/imgRemovePhoto"
+                android:layout_width="@dimen/_18sdp"
+                android:layout_height="@dimen/_18sdp"
+                android:src="@drawable/ic_profile_popup_delete"/>
+
+            <TextView
+                android:id="@+id/tvRemovePhotoLBL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Remove Photo"
+                android:layout_gravity="center"
+                android:layout_marginStart="@dimen/_10sdp"
+                style="@style/lbl12BlackMedium"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/llCamera"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/_10sdp">
+
+            <ImageView
+                android:id="@+id/imgArchiveChat"
+                android:layout_width="@dimen/_18sdp"
+                android:layout_height="@dimen/_18sdp"
+                android:src="@drawable/ic_profile_popup_camera"/>
+
+            <TextView
+                android:id="@+id/tvCameraLBL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Camera"
+                android:layout_gravity="center"
+                android:layout_marginStart="@dimen/_10sdp"
+                style="@style/lbl12BlackMedium"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llGallery"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/_10sdp">
+
+            <ImageView
+                android:id="@+id/imgGallery"
+                android:layout_width="@dimen/_18sdp"
+                android:layout_height="@dimen/_18sdp"
+                android:src="@drawable/ic_profile_popup_gallery"/>
+
+            <TextView
+                android:id="@+id/tvGalleryLBL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Gallery"
+                android:layout_gravity="center"
+                android:layout_marginStart="@dimen/_10sdp"
+                style="@style/lbl12BlackMedium"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

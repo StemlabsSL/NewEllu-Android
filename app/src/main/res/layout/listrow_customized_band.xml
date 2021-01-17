@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorWhite"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/_16sdp"
+        android:paddingTop="@dimen/_10sdp"
+        android:paddingEnd="@dimen/_16sdp"
+        android:paddingBottom="@dimen/_10sdp">
+
+
+        <ImageView
+            android:id="@+id/imgCustomizedBand"
+            android:layout_width="@dimen/_35sdp"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_customized_alarm" />
+
+        <TextView
+            android:id="@+id/tvCustomizedBandTitle"
+            style="@style/lbl12BlackBold"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_18sdp"
+            android:layout_marginEnd="@dimen/_10ssp"
+            android:layout_weight="1"
+            android:text="asdasd"
+            android:textSize="@dimen/_12ssp" />
+
+
+        <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/switchCustomizedBand"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginEnd="@dimen/_4sdp"
+            android:width="@dimen/_35sdp"
+            android:height="@dimen/_25sdp"
+            android:background="@null"
+            android:button="@drawable/switch_bg"
+            android:checked="true"
+            android:thumb="@null"
+            app:track="@null" />
+
+
+        <ImageView
+            android:layout_width="@dimen/_10sdp"
+            android:layout_height="@dimen/_10sdp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_right_arrow_black"
+            android:tint="@color/color575555" />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/viewDivider"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginStart="@dimen/_13sdp"
+        android:layout_marginEnd="@dimen/_13sdp"
+        android:background="@color/colorE1E1E1"/>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">475713574848-pnntiiekolior725og8hraeo7rihhah8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">475713574848</string>
+    <string name="google_api_key" translatable="false">AIzaSyC0o9nPQVQpDN516wa59CKc8WTQSb7JXgQ</string>
+    <string name="google_app_id" translatable="false">1:475713574848:android:d674237fd883d3fa931a25</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC0o9nPQVQpDN516wa59CKc8WTQSb7JXgQ</string>
+    <string name="google_storage_bucket" translatable="false">elludemo.appspot.com</string>
+    <string name="project_id" translatable="false">elludemo</string>
+</resources>

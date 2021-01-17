@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_bottom_curve_call"
+    android:orientation="horizontal"
+    android:paddingStart="@dimen/_10sdp"
+    android:paddingTop="@dimen/_10sdp"
+    android:paddingEnd="@dimen/_10sdp"
+    android:paddingBottom="@dimen/_10sdp">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/lbl14WhiteRegular"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jane, Eric, Angelina ..." />
+
+        <TextView
+            style="@style/lbl12WhiteRegular"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:fontFamily="@font/roboto_regular"
+            android:text="00:00:05" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvEndCallLBL"
+        style="@style/lbl12WhiteBold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/roboto_bold"
+        android:padding="@dimen/_5sdp"
+        android:text="End Call"
+        android:textSize="@dimen/_13ssp" />
+
+
+</LinearLayout>

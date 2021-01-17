@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/_40sdp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_16sdp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgSideMenuUserProfile"
+            android:layout_width="@dimen/_45ssp"
+            android:layout_height="@dimen/_45ssp"
+            android:layout_margin="@dimen/_5sdp"
+            android:layout_marginStart="@dimen/_16sdp"
+            android:layout_marginEnd="@dimen/_16sdp"
+            android:elevation="@dimen/_5sdp"
+            android:src="@drawable/ic_profile_main_user_round"
+            app:civ_border_color="@color/colorPrimary"
+            app:civ_border_width="0.8dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/_16sdp">
+
+
+        <TextView
+            style="@style/lbl14PrimaryBold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_3sdp"
+            android:text="John Doe"
+            android:textSize="@dimen/_12ssp" />
+
+
+        <TextView
+            style="@style/lbl12GrayBold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_medium"
+            android:text="+64 010 234 5678"
+            android:textColor="@color/color00253A"
+            android:textSize="@dimen/_11ssp" />
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/lbl12PrimaryBold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_bold"
+                android:text="450"
+                android:textColor="@color/color035786"
+                android:textSize="@dimen/_11ssp" />
+
+            <TextView
+                style="@style/lbl12PrimaryBold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_5sdp"
+                android:fontFamily="@font/raleway_light"
+                android:text="Contacts"
+
+                android:textColor="@color/color393939"
+                android:textSize="@dimen/_11ssp" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingStart="@dimen/_16sdp"
+                android:paddingTop="@dimen/_8sdp"
+                android:paddingEnd="@dimen/_8sdp"
+                android:paddingBottom="@dimen/_8sdp">
+
+
+                <ImageView
+                    android:layout_width="@dimen/_18sdp"
+                    android:layout_height="@dimen/_18sdp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_sidemenu_leash" />
+
+
+                <TextView
+                    style="@style/lbl14PrimaryMedium"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="@dimen/_10sdp"
+                    android:layout_marginEnd="@dimen/_10sdp"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="Leash"
+                    android:textColor="@color/color00466E"
+                    android:textSize="@dimen/_11ssp" />
+
+
+                <androidx.appcompat.widget.SwitchCompat
+                    android:id="@+id/switchAlarmOnOff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginEnd="@dimen/_5sdp"
+                    android:background="@null"
+                    android:button="@drawable/switch_bg"
+                    android:padding="@dimen/_5sdp"
+                    android:thumb="@null"
+                    app:track="@null" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llSideMenuEClick"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingStart="@dimen/_16sdp"
+                android:paddingTop="@dimen/_8sdp"
+                android:paddingEnd="@dimen/_16sdp"
+                android:paddingBottom="@dimen/_8sdp">
+
+
+                <ImageView
+                    android:layout_width="@dimen/_18sdp"
+                    android:layout_height="@dimen/_18sdp"
+                    android:src="@drawable/ic_sidemenu_e_clock" />
+
+
+                <TextView
+                    style="@style/lbl14PrimaryMedium"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="@dimen/_10sdp"
+                    android:layout_marginEnd="@dimen/_10sdp"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="ē Clock"
+
+                    android:textColor="@color/color00466E"
+                    android:textSize="@dimen/_11ssp" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llTutorial"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingStart="@dimen/_16sdp"
+                android:paddingTop="@dimen/_8sdp"
+                android:paddingEnd="@dimen/_16sdp"
+                android:paddingBottom="@dimen/_8sdp">
+
+
+                <ImageView
+                    android:layout_width="@dimen/_18sdp"
+                    android:layout_height="@dimen/_18sdp"
+                    android:src="@drawable/ic_sidemenu_tutorial" />
+
+
+                <TextView
+                    style="@style/lbl14PrimaryMedium"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="@dimen/_10sdp"
+                    android:layout_marginEnd="@dimen/_10sdp"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="Tutorial"
+
+                    android:textColor="@color/color00466E"
+                    android:textSize="@dimen/_11ssp" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingStart="@dimen/_16sdp"
+                android:paddingTop="@dimen/_8sdp"
+                android:paddingEnd="@dimen/_16sdp"
+                android:paddingBottom="@dimen/_8sdp">
+
+
+                <ImageView
+                    android:layout_width="@dimen/_18sdp"
+                    android:layout_height="@dimen/_18sdp"
+                    android:src="@drawable/ic_sidemenu_e_plus" />
+
+
+                <TextView
+                    android:id="@+id/tv"
+                    style="@style/lbl14PrimaryMedium"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="@dimen/_10sdp"
+                    android:layout_marginEnd="@dimen/_10sdp"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="ēllu Plus"
+
+                    android:textColor="@color/color00466E"
+                    android:textSize="@dimen/_11ssp" />
+
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:background="@color/colorEAEAEA" />
+
+
+            <TextView
+                android:id="@+id/tvSettingsPrivacy"
+                style="@style/lbl14PrimaryRegular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginStart="@dimen/_16sdp"
+                android:layout_marginTop="@dimen/_15sdp"
+                android:layout_marginEnd="@dimen/_16sdp"
+                android:paddingTop="@dimen/_2sdp"
+                android:paddingBottom="@dimen/_2sdp"
+
+                android:text="Settings &amp; Privacy"
+                android:textColor="@color/color00466E"
+                android:textSize="@dimen/_11ssp" />
+
+
+            <TextView
+                android:id="@+id/tvHelpCenter"
+                style="@style/lbl14PrimaryRegular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginStart="@dimen/_16sdp"
+                android:layout_marginTop="@dimen/_15sdp"
+                android:layout_marginEnd="@dimen/_16sdp"
+                android:layout_marginBottom="@dimen/_15sdp"
+                android:text="Help Center"
+
+                android:textColor="@color/color00466E"
+                android:textSize="@dimen/_11ssp" />
+
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <ImageView
+        android:id="@+id/imgLogout"
+        android:layout_width="@dimen/_23sdp"
+        android:layout_height="@dimen/_23sdp"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:layout_marginBottom="@dimen/_40sdp"
+        android:padding="@dimen/_2sdp"
+        android:src="@drawable/ic_sidemenu_logout" />
+</LinearLayout>

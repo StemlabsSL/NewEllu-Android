@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/_15sdp"
+    android:layout_marginEnd="@dimen/_15sdp"
+    android:background="@drawable/curve_primary_white"
+    android:orientation="vertical"
+    android:padding="@dimen/_15sdp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvMuteNotificationLBL"
+            style="@style/lbl14PrimaryBold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:text="Mute Notification for..." />
+
+
+        <LinearLayout
+            android:id="@+id/ll8Hours"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:orientation="horizontal"
+            android:padding="@dimen/_10sdp">
+
+            <RadioButton
+                android:id="@+id/rb8Hours"
+                android:layout_width="@dimen/_22sdp"
+                android:layout_height="@dimen/_22sdp"
+                android:background="@drawable/radio_bg"
+                android:button="@null"
+                android:checked="true" />
+
+            <TextView
+                android:id="@+id/tv8Hours"
+                style="@style/lbl12BlackMedium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:text="8 hours" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll1Week"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/_10sdp">
+
+            <RadioButton
+                android:id="@+id/rb1Week"
+                android:layout_width="@dimen/_22sdp"
+                android:layout_height="@dimen/_22sdp"
+                android:background="@drawable/radio_bg"
+                android:button="@null"
+                />
+
+            <TextView
+                android:id="@+id/tv1WeekLBL"
+                style="@style/lbl12BlackMedium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:text="1 week" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llAlways"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/_10sdp">
+
+            <RadioButton
+                android:id="@+id/rbAlways"
+                android:layout_width="@dimen/_22sdp"
+                android:layout_height="@dimen/_22sdp"
+                android:background="@drawable/radio_bg"
+                android:button="@null"
+                />
+
+            <TextView
+                android:id="@+id/tvAlwaysLBL"
+                style="@style/lbl12BlackMedium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:text="Always" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_1sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_marginBottom="@dimen/_5sdp"
+        android:background="@color/colorCDCDCD" />
+
+    <LinearLayout
+        android:id="@+id/llShowNotifications"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="@dimen/_10sdp"
+        android:paddingBottom="@dimen/_10sdp">
+
+        <CheckBox
+            android:id="@+id/checkBoxShowNotification"
+            android:layout_width="@dimen/_17sdp"
+            android:layout_height="@dimen/_17sdp"
+            android:layout_marginTop="@dimen/_1sdp"
+            android:background="@drawable/bg_checkbox"
+            android:button="@null"
+            android:checked="true" />/>
+
+        <TextView
+            android:id="@+id/tvShowNotification"
+            style="@style/lbl12BlackMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:text="Show Notifications" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="end">
+
+        <TextView
+            android:id="@+id/tvCancelLBL"
+            style="@style/lbl12PrimaryMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_medium"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:text="CANCEL"
+            android:padding="@dimen/_5sdp"/>
+
+        <TextView
+            android:id="@+id/tvOKLBL"
+            style="@style/lbl12PrimaryMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_medium"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:text="OK"
+            android:padding="@dimen/_5sdp"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

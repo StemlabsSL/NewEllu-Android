@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorFBFBFB"
+    android:orientation="vertical"
+    tools:context=".ui.component.aboutband.fragment.BatteryFragment">
+
+    <include layout="@layout/noraml_toolbar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/tvBatteryLevelLBL"
+            style="@style/lbl14BlackBold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_medium"
+            android:text="Battery Level"
+            android:textSize="@dimen/_16ssp" />
+
+
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_140sdp"
+            android:src="@drawable/ic_battery_green" />
+
+        <TextView
+            style="@style/lbl14BlackBold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_medium"
+            android:text="80%"
+            android:textColor="@color/color009919"
+            android:textSize="@dimen/_28ssp" />
+
+        <TextView
+            style="@style/lbl14BlackBold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_medium"
+            android:text="ESTIMATED LIFE"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:textSize="@dimen/_17ssp" />
+
+        <TextView
+            style="@style/lbl14BlackBold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_medium"
+            android:text="10 H 45 M"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:textColor="@color/color0073B5"
+            android:textSize="@dimen/_20ssp" />
+    </LinearLayout>
+</LinearLayout>

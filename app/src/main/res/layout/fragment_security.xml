@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/LLFinger"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.component.settings.fragment.SecurityFragment">
+
+    <include layout="@layout/noraml_toolbar" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/tvStartUsingYourLBL"
+                style="@style/lbl16PrimaryBold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_50sdp"
+                android:gravity="center"
+                android:padding="@dimen/_2sdp"
+                android:text="Start Using Your\nFinger Print"
+                android:textColor="@color/color00446C"
+                android:textSize="@dimen/_22ssp" />
+
+
+            <ImageView
+                android:id="@+id/imgFaceDetection"
+                android:layout_width="@dimen/_100sdp"
+                android:layout_height="@dimen/_100sdp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_40sdp"
+                android:layout_marginBottom="@dimen/_40sdp"
+                android:src="@drawable/ic_finger_print_blue" />
+
+
+            <TextView
+                android:id="@+id/tvKeepYourSafeLBL"
+                style="@style/lbl16PrimaryMedium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="center"
+                android:text="Keep your data safe"
+                android:textColor="@color/color00446C"
+                android:textSize="@dimen/_22ssp" />
+
+            <TextView
+                android:id="@+id/tvKeepYourSafeDescriptionLBL"
+                style="@style/lbl12PrimaryMedium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="center"
+                android:textSize="@dimen/_12ssp"
+                android:lineSpacingExtra="@dimen/_5sdp"
+                android:text="Every time the application is opened, you will be\nprompted to enter your biometrics."
+                android:textColor="@color/color00446C" />
+
+            <TextView
+                android:id="@+id/tvAddFingerPrintLBL"
+                style="@style/btnGradient"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_16sdp"
+                android:layout_marginTop="@dimen/_70sdp"
+                android:layout_marginEnd="@dimen/_16sdp"
+                android:text="ADD FINGER PRINT" />
+
+            <TextView
+                android:id="@+id/tvUseIdentificationLBL"
+                style="@style/lbl12PrimaryMedium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_15sdp"
+                android:layout_marginBottom="@dimen/_20sdp"
+                android:gravity="center"
+                android:lineSpacingExtra="@dimen/_5sdp"
+                android:text="USE FACE IDENTIFICATION INSTEAD"
+                android:textAllCaps="true" />
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>

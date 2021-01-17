@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorFBFBFB"
+    android:orientation="vertical"
+    tools:context=".ui.component.aboutband.fragment.AboutBandDetailFragment">
+
+    <include layout="@layout/noraml_toolbar" />
+
+    <LinearLayout
+        android:id="@+id/llDeviceName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/_16sdp"
+        android:paddingEnd="@dimen/_16sdp"
+        android:background="@color/colorWhite"
+        android:paddingTop="@dimen/_7sdp"
+        android:paddingBottom="@dimen/_7sdp">
+
+        <ImageView
+            android:id="@+id/imgDeviceName"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_watch_blue" />
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginEnd="@dimen/_10ssp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvDeviceName"
+                style="@style/lbl12BlackBold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Device Name"
+                android:textSize="@dimen/_12ssp" />
+
+            <TextView
+                android:id="@+id/tvUsernameBand"
+                style="@style/lbl12GrayRegular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_1sdp"
+                android:text="Jhon's Band"
+                android:textColor="@color/color9B9B9B"
+                android:textSize="@dimen/_10ssp" />
+
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:layout_width="@dimen/_14sdp"
+            android:layout_height="@dimen/_14sdp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_edit"
+            android:layout_marginEnd="@dimen/_5sdp"
+            android:tint="@color/color575555" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginStart="@dimen/_20sdp"
+        android:layout_marginEnd="@dimen/_20sdp"
+        android:background="@color/colorE1E1E1"/>
+
+    <LinearLayout
+        android:id="@+id/llUpdateBand"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/_16sdp"
+        android:paddingEnd="@dimen/_16sdp"
+        android:background="@color/colorWhite"
+        android:paddingTop="@dimen/_7sdp"
+        android:paddingBottom="@dimen/_7sdp"
+        >
+
+
+        <ImageView
+            android:id="@+id/imgUpdateBand"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_watch_blue_yellow_reset" />
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginEnd="@dimen/_10ssp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvUpdateBand"
+                style="@style/lbl12BlackBold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Update Band"
+                android:textSize="@dimen/_12ssp" />
+
+            <TextView
+                android:id="@+id/tvSoftwareVersion"
+                style="@style/lbl12GrayRegular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_1sdp"
+                android:text="Software Version: V 1.1.10"
+                android:textColor="@color/color9B9B9B"
+                android:textSize="@dimen/_10ssp" />
+
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:layout_width="@dimen/_10sdp"
+            android:layout_height="@dimen/_10sdp"
+            android:layout_gravity="center"
+            android:layout_marginEnd="@dimen/_5sdp"
+            android:src="@drawable/ic_right_arrow_black"
+            android:tint="@color/color575555" />
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginStart="@dimen/_20sdp"
+        android:layout_marginEnd="@dimen/_20sdp"
+        android:background="@color/colorE1E1E1"/>
+
+    <LinearLayout
+        android:id="@+id/llTips"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/_16sdp"
+        android:paddingEnd="@dimen/_16sdp"
+        android:paddingTop="@dimen/_7sdp"
+        android:background="@color/colorWhite"
+        android:paddingBottom="@dimen/_7sdp">
+
+        <ImageView
+            android:id="@+id/imgTips"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_tips" />
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_10sdp"            android:layout_marginEnd="@dimen/_10ssp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvTips"
+                style="@style/lbl12BlackBold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Tips"
+                android:textSize="@dimen/_12ssp" />
+
+            <TextView
+                style="@style/lbl12GrayRegular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_1sdp"
+                android:text="Jhon's Band"
+                android:textColor="@color/color9B9B9B"
+                android:textSize="@dimen/_10ssp"
+                android:visibility="gone" />
+
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:layout_width="@dimen/_10sdp"
+            android:layout_height="@dimen/_10sdp"
+            android:layout_gravity="center"
+            android:layout_marginEnd="@dimen/_5sdp"
+            android:src="@drawable/ic_right_arrow_black"
+            android:tint="@color/color575555" />
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginStart="@dimen/_20sdp"
+        android:layout_marginEnd="@dimen/_20sdp"
+        android:background="@color/colorE1E1E1"/>
+    <LinearLayout
+        android:id="@+id/llResetBand"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/_16sdp"
+        android:paddingEnd="@dimen/_16sdp"
+        android:paddingTop="@dimen/_7sdp"
+        android:background="@color/colorWhite"
+        android:paddingBottom="@dimen/_7sdp">
+
+        <ImageView
+            android:id="@+id/imgResetBand"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_reset" />
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_10sdp"            android:layout_marginEnd="@dimen/_10ssp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvResetBand"
+                style="@style/lbl12BlackBold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Reset Band"
+                android:textSize="@dimen/_12ssp" />
+
+            <TextView
+                style="@style/lbl12GrayRegular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_1sdp"
+                android:text="Jhon's Band"
+                android:textColor="@color/color9B9B9B"
+                android:textSize="@dimen/_10ssp"
+                android:visibility="gone" />
+
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:layout_width="@dimen/_10sdp"
+            android:layout_height="@dimen/_10sdp"
+            android:layout_gravity="center"
+            android:layout_marginEnd="@dimen/_5sdp"
+            android:src="@drawable/ic_right_arrow_black"
+            android:tint="@color/color575555" />
+
+    </LinearLayout>
+
+</LinearLayout>

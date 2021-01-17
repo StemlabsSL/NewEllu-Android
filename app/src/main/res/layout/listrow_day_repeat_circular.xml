@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingStart="@dimen/_3sdp"
+    android:paddingTop="@dimen/_7sdp"
+    android:paddingEnd="@dimen/_3sdp"
+    android:layout_marginEnd="@dimen/_4sdp"
+    android:paddingBottom="@dimen/_3sdp">
+
+    <LinearLayout
+        android:id="@+id/llDayCircular"
+        android:layout_width="@dimen/_17sdp"
+        android:layout_height="@dimen/_17sdp"
+        android:background="@drawable/border_blue"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvDay"
+            style="@style/lbl14PrimaryBold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="S"
+            android:padding="0dp"
+            android:textSize="@dimen/_12ssp"
+            android:textColor="@color/color0073B5" />
+    </LinearLayout>
+</LinearLayout>

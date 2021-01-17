@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorFBFBFB"
+    android:orientation="vertical"
+    tools:context=".ui.component.customize.fragment.CustomizeBandDetailFragment">
+
+    <include layout="@layout/noraml_toolbar" />
+
+    <ImageView
+        android:id="@+id/imgCustomizedBandFrom"
+        android:layout_width="@dimen/_200sdp"
+        android:layout_height="@dimen/_200sdp"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_customized_alarm" />
+
+
+    <LinearLayout
+        android:id="@+id/llVibrationPattern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:orientation="horizontal"
+        android:background="@color/colorWhite"
+        android:paddingStart="@dimen/_16sdp"
+        android:paddingTop="@dimen/_15sdp"
+        android:paddingEnd="@dimen/_16sdp"
+        android:paddingBottom="@dimen/_15sdp">
+
+        <ImageView
+            android:id="@+id/imgVibrationPatternBand"
+            android:layout_width="@dimen/_35sdp"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_customized_pattern" />
+
+        <TextView
+            android:id="@+id/tvVibrationPatternLBL"
+            style="@style/lbl12BlackBold"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_15sdp"
+            android:layout_marginEnd="@dimen/_10ssp"
+            android:layout_weight="1"
+            android:text="Vibration pattern"
+            android:textSize="@dimen/_13ssp" />
+
+
+        <ImageView
+            android:layout_width="@dimen/_10sdp"
+            android:layout_height="@dimen/_10sdp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_right_arrow_black"
+            android:tint="@color/color575555" />
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginStart="@dimen/_12sdp"
+        android:layout_marginEnd="@dimen/_12sdp"
+        android:background="@color/colorE1E1E1"/>
+
+    <LinearLayout
+        android:id="@+id/llVibrationIntensity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/_16sdp"
+        android:background="@color/colorWhite"
+        android:paddingTop="@dimen/_15sdp"
+        android:paddingEnd="@dimen/_16sdp"
+        android:paddingBottom="@dimen/_15sdp"
+        android:tag="">
+
+        <ImageView
+            android:id="@+id/imgVibrationIntensity"
+            android:layout_width="42dp"
+            android:layout_height="43dp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_customized_intensity" />
+
+        <TextView
+            android:id="@+id/tvVibrationIntensityLBL"
+            style="@style/lbl12BlackBold"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_18sdp"
+            android:layout_marginEnd="@dimen/_10ssp"
+            android:layout_weight="1"
+            android:text="Vibration intensity"
+            android:textSize="@dimen/_13ssp" />
+
+
+        <ImageView
+            android:id="@+id/imgVibrationIntensityArrow"
+            android:layout_width="@dimen/_10sdp"
+            android:layout_height="@dimen/_10sdp"
+            android:layout_gravity="center"
+            android:rotation="90"
+            android:src="@drawable/ic_right_arrow_black"
+            android:tint="@color/color575555" />
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatSeekBar
+        android:id="@+id/seekbarVibrationIntensity"
+        style="@style/seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_20sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_20sdp"
+        android:background="@null"
+        android:progress="70"
+        android:progressTint="@color/color2DA1E3"
+        android:splitTrack="false"
+        android:thumb="@drawable/ic_seekbar_thumb_primary"
+        android:thumbTint="@color/color0073B5"
+        android:visibility="gone" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginStart="@dimen/_12sdp"
+        android:layout_marginEnd="@dimen/_12sdp"
+        android:background="@color/colorE1E1E1"/>
+
+    <LinearLayout
+        android:id="@+id/llLoop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/_16sdp"
+        android:background="@color/colorWhite"
+        android:paddingTop="@dimen/_15sdp"
+        android:paddingEnd="@dimen/_10sdp"
+        android:paddingBottom="@dimen/_15sdp">
+
+        <ImageView
+            android:id="@+id/imgLoop"
+            android:layout_width="@dimen/_35sdp"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_customized_loop" />
+
+        <TextView
+            android:id="@+id/tvLoopLBL"
+            style="@style/lbl12BlackBold"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_15sdp"
+            android:layout_marginEnd="@dimen/_10ssp"
+            android:layout_weight="1"
+            android:text="Loop"
+            android:textSize="@dimen/_13ssp" />
+
+
+        <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/switchLoop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginEnd="@dimen/_4sdp"
+            android:width="@dimen/_35sdp"
+            android:height="@dimen/_25sdp"
+            android:background="@null"
+            android:button="@drawable/switch_bg"
+            android:checked="true"
+            android:thumb="@null"
+            app:track="@null" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

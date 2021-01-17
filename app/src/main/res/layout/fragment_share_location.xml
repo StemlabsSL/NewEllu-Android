@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.component.settings.fragment.SettingsFragment">
+
+    <include layout="@layout/noraml_toolbar" />
+
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:visibility="visible">
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_150sdp">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_150sdp"
+                        android:alpha="0.7"
+                        android:background="@color/colorWhite" />
+
+
+                    <ImageView
+                        android:layout_width="@dimen/_80sdp"
+                        android:layout_height="@dimen/_80sdp"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="@dimen/_40sdp"
+                        android:layout_marginBottom="@dimen/_40sdp"
+                        android:background="@drawable/circle_blue_gradiun"
+                        android:backgroundTint="@color/colorFEDB00"
+                        android:padding="@dimen/_25sdp"
+                        android:src="@drawable/ic_location"
+                        android:tint="@color/white" />
+
+                </FrameLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/top_curve_primary_solid"
+                    android:backgroundTint="@color/white"
+                    android:elevation="@dimen/_5sdp"
+                    android:orientation="vertical">
+
+                    <fragment
+                        android:id="@+id/map"
+                        android:name="com.google.android.gms.maps.SupportMapFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        tools:context=".ui.component.settings.fragment.SettingsFragment" />
+
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/cardShareCurrentLocation"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/cardShareLiveLocation"
+                        android:layout_marginStart="@dimen/_16sdp"
+                        android:layout_marginTop="@dimen/_3sdp"
+                        android:layout_marginEnd="@dimen/_16sdp"
+                        android:layout_marginBottom="@dimen/_10sdp"
+                        android:elevation="@dimen/_2sdp"
+                        app:cardCornerRadius="@dimen/_7sdp"
+                        app:cardElevation="@dimen/_3sdp"
+                        app:cardPreventCornerOverlap="false"
+                        app:cardUseCompatPadding="false">
+
+                        <LinearLayout
+                            android:id="@+id/llShareCurrentLocation"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/colorWhite"
+                            android:orientation="horizontal"
+                            android:paddingStart="@dimen/_10sdp"
+                            android:paddingTop="@dimen/_10sdp"
+                            android:paddingEnd="@dimen/_10sdp"
+                            android:paddingBottom="@dimen/_10sdp">
+
+                            <RadioButton
+                                android:id="@+id/rbShareCurrentLocation"
+                                android:layout_width="@dimen/_20sdp"
+                                android:layout_height="@dimen/_20sdp"
+                                android:background="@drawable/radio_bg"
+                                android:backgroundTint="@color/colorAccent"
+                                android:button="@null"
+                                android:checked="true" />
+
+                            <LinearLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_marginStart="@dimen/_5sdp"
+                                android:layout_marginEnd="@dimen/_5sdp"
+                                android:layout_weight="1"
+                                android:orientation="vertical">
+
+
+                                <TextView
+                                    android:id="@+id/tvShareCurrentPositionLBL"
+                                    style="@style/lbl12GrayMedium"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center"
+                                    android:text="Share Current Position"
+                                    android:textColor="@color/colorC8C2C2" />
+
+                                <TextView
+                                    style="@style/lbl12GrayRegular"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/roboto_medium"
+                                    android:text="15 Minutes"
+                                    android:textColor="@color/color959593"
+                                    android:textSize="@dimen/_9ssp"
+                                    android:visibility="gone" />
+
+
+                            </LinearLayout>
+
+                            <ImageView
+                                android:layout_width="@dimen/_16sdp"
+                                android:layout_height="@dimen/_16sdp"
+                                android:layout_gravity="center"
+                                android:src="@drawable/gps" />
+
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/cardShareLiveLocation"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/tvSendLBL"
+                        android:layout_marginStart="@dimen/_16sdp"
+                        android:layout_marginTop="@dimen/_3sdp"
+                        android:layout_marginEnd="@dimen/_16sdp"
+                        android:layout_marginBottom="@dimen/_10sdp"
+                        android:elevation="@dimen/_2sdp"
+                        app:cardCornerRadius="@dimen/_7sdp"
+                        app:cardElevation="@dimen/_3sdp"
+                        app:cardPreventCornerOverlap="false"
+                        app:cardUseCompatPadding="false">
+
+                        <LinearLayout
+                            android:id="@+id/llShareLiveLocation"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/colorWhite"
+                            android:orientation="horizontal"
+                            android:paddingStart="@dimen/_10sdp"
+                            android:paddingTop="@dimen/_8sdp"
+                            android:paddingEnd="@dimen/_10sdp"
+                            android:paddingBottom="@dimen/_8sdp">
+
+                            <RadioButton
+                                android:id="@+id/rbShareLiveLocation"
+                                android:layout_width="@dimen/_20sdp"
+                                android:layout_height="@dimen/_20sdp"
+                                android:layout_gravity="center"
+                                android:background="@drawable/radio_bg"
+                                android:backgroundTint="@color/colorAccent"
+                                android:button="@null"
+                                android:checked="false" />
+
+                            <LinearLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_marginStart="@dimen/_5sdp"
+                                android:layout_marginEnd="@dimen/_5sdp"
+                                android:layout_weight="1"
+                                android:orientation="vertical">
+
+
+                                <TextView
+                                    android:id="@+id/tvShareLiveLocationLBL"
+                                    style="@style/lbl12GrayMedium"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center"
+                                    android:text="Share Live Location"
+                                    android:textColor="@color/colorC8C2C2" />
+
+                                <TextView
+                                    style="@style/lbl12GrayRegular"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/roboto_medium"
+                                    android:text="Until 03:56"
+                                    android:textColor="@color/colorC8C2C2"
+                                    android:textSize="@dimen/_9ssp"
+                                    android:visibility="visible" />
+
+
+                            </LinearLayout>
+
+                            <ImageView
+                                android:id="@+id/imgMinus"
+                                android:layout_width="@dimen/_16sdp"
+                                android:layout_height="@dimen/_16sdp"
+                                android:layout_gravity="center"
+                                android:src="@drawable/minus" />
+
+                            <ImageView
+                                android:id="@+id/imgPlus"
+                                android:layout_width="@dimen/_16sdp"
+                                android:layout_height="@dimen/_16sdp"
+                                android:layout_gravity="center"
+                                android:layout_marginStart="@dimen/_5sdp"
+                                android:src="@drawable/plus" />
+
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+
+                    <TextView
+                        android:id="@+id/tvSendLBL"
+                        style="@style/btnGradient"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginStart="@dimen/_16sdp"
+                        android:layout_marginTop="@dimen/_5sdp"
+                        android:layout_marginEnd="@dimen/_16sdp"
+                        android:layout_marginBottom="@dimen/_16sdp"
+                        android:clickable="true"
+                        android:text="SEND LOCATION" />
+
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+        </FrameLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>
